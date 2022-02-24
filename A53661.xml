@@ -1,0 +1,1588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on a sermon, about corrupting the word of God preach'd by Tho. Gipps Rector of Bury, on a publick occasion, July 11, 1696, wherein the dissenters are fully vindicated against his vnjust accusations / by J.O., Minister of the Gospel at Oswestry.</title>
+            <author>Owen, James, 1654-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53661</idno>
+            <idno type="STC">Wing O709</idno>
+            <idno type="STC">ESTC R6175</idno>
+            <idno type="EEBO-CITATION">13088640</idno>
+            <idno type="OCLC">ocm 13088640</idno>
+            <idno type="VID">97325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on a sermon, about corrupting the word of God preach'd by Tho. Gipps Rector of Bury, on a publick occasion, July 11, 1696, wherein the dissenters are fully vindicated against his vnjust accusations / by J.O., Minister of the Gospel at Oswestry.</title>
+                  <author>Owen, James, 1654-1706.</author>
+               </titleStmt>
+               <extent>[8], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Zachary Whitworth ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Owen. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gipps, Thomas, d. 1709. --  A sermon against corrupting the Word of God.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97325:1"/>
+            <pb facs="tcp:97325:1" rendition="simple:additions"/>
+            <p>REMARKS ON A SERMON, ABOUT <hi>Corrupting the WORD of GOD.</hi> PREACH'D BY <hi>Tho. Gipps,</hi> Rector of <hi>Bury,</hi> On a Publick Occaſion, <hi>July</hi> 11. 1696.</p>
+            <p>Wherein the DISSENTERS ARE Fully Vindicated Againſt his
+<hi>
+                  <g ref="char:V">Ʋ</g>njuſt Accuſations.</hi>
+            </p>
+            <p>By J. O. Miniſter of the Goſpel at <hi>Oſweſtry.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>COM. ix.</hi>
+               </bibl>
+               <p>Thou ſhalt not bear falſe Witneſs againſt thy Neighbour.</p>
+            </q>
+            <q>
+               <p>Et tuus Fronto, non ut
+<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap>tor teſtimonium fecit, ſed Convicium ut Orator aſperſit.</p>
+               <bibl>
+                  <hi>Min. Fel. Octav. p. 92. Edit. Oxon.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Zachary Whitworth,</hi> Bookſeller in <hi>Mancheſter,</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97325:2"/>
+            <pb facs="tcp:97325:2"/>
+            <head>To the Right Honourable WILLIAM Earl of <hi>Derby,</hi> Lord of
+<hi>Man,</hi> and the <hi>Iſles,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT was a received Maxim in the <hi>Roman Judicatories, To Con<g ref="char:EOLhyphen"/>demn no Man till he were admitted to anſwer for himſelf,</hi> which being agreeable to the Laws of Natural Juſtice, and the pre<g ref="char:EOLhyphen"/>vailing Sentiments of Mankind, I doubt not, but will paſs with Your Honour, for an equitable Rule of Judgment.</p>
+            <p>The <hi>Rector</hi> of <hi>Bury</hi> hath Publiſh'd a horrid Charge againſt a great Body of People, the <hi>Diſſenting Proteſtants,</hi> of Corrupting the Word of God, by Printing the Word
+<hi>Ye</hi> inſtead of <hi>We</hi> in <hi>Acts</hi> 6.3. and preſumes to
+<hi>ſhelter himſelf under your Great and Ho<g ref="char:EOLhyphen"/>nourable Name,</hi> by which he hopes to render it unconteſtable, and to give it a more general Acceptation in the World.</p>
+            <p>Now, My Lord, ſince he Appeals to <hi>Ceſar,</hi> to
+<hi>Ceſar</hi> he ſhall go. All the Favour we deſire, is a Full and Fair Hearing of our Cauſe, which will bear the ſtricteſt Diſquiſition of a ſevere Judicature.</p>
+            <p>Our <hi>Accuſer</hi> ſaith, the firſt Corruption happen'd in the Year 1638. when the <hi>Presbyterians</hi> were in the Aſcendant, and that it was then begun, and continued ever ſince in ſeveral Editions to promote the People's Power of ſetting up their own Teachers.</p>
+            <p>But I have clearly Prov'd, that the <hi>Presbyterians</hi> were in no Pow<g ref="char:EOLhyphen"/>er then; that they are as much againſt the People's Ordaining Mi<g ref="char:EOLhyphen"/>niſters as the Biſhops are; that there were far more corrupt Editi<g ref="char:EOLhyphen"/>ons of that Place under King <hi>Charles</hi> II. when the Preſs was intire<g ref="char:EOLhyphen"/>ly at the Devotion of the <hi>Biſhops,</hi> than in the Year's between 40. and 60. when the <hi>Anti-Epiſcopal Party</hi> had the Power of the Preſs.
+<pb facs="tcp:97325:3" rendition="simple:additions"/>I can find but <hi>Three</hi> Corrupt Editions during the long Parliament, and I have met with <hi>Three and Thirty</hi> under King
+<hi>Charles</hi> II. which I humbly Preſent to your Lordſhip's wiſe Conſideration, not doubting but the Intereſts of Truth have the Preference in your E<g ref="char:EOLhyphen"/>ſteem to the inſinuating Artifices of officious Servants.</p>
+            <p>The <hi>Rector,</hi> who Honours himſelf with the Title of your Lord<g ref="char:EOLhyphen"/>ſhips <hi>Chaplain,</hi> knowing its below your Greatneſs to examine his Matters, and preſuming your Lordſhip would take all upon truſt (as one would think a Noble Perſon might rely much upon the Word of a Chaplain) thought he might impoſe herein upon your Honour, as no doubt he hath upon many others: But the Duty we owe to all, and to Perſons of Honour eſpecially, as well as our own neceſſary Vindication, hath obliged us to Expoſe the Falſeneſs of his Accuſations, and to recommend this true Narrative of the Caſe to your Lordſhips Exact and Impartial Judgment.</p>
+            <p>I humbly crave your Lordſhips Pardon for this Addreſs, occaſi<g ref="char:EOLhyphen"/>on'd by that of the Rector's, in which he very rudely Proſtitutes your Honour to the Patronage of the vileſt Calumny.</p>
+            <p>I leave him to your Lordſhip's juſt Cenſure, and wiſh him more Sincere Affection to the Truth, more Deference towards his Supe<g ref="char:EOLhyphen"/>riours, and more Charity towards his Neighbours, eſpecially in a Conjuncture, when our Civil as well as our Religious Intereſts do ſo loudly Call for the Exerciſe of 'em.</p>
+            <p>But I muſt not tire your Lordſhip's Patience, and therefore ſhall only add an Apprecation of all Bleſſings to your Honour, and beg leave to ſubſcribe my ſelf.</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <signed>
+                  <hi>Your Lordſhip's moſt Humble And moſt Obedient Servant In our Great Lord and Maſter JES<g ref="char:V">Ʋ</g>S CHRIST.</hi> James Owen.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:97325:3" rendition="simple:additions"/>
+            <head>The PREFACE.</head>
+            <p>THESE Papers were occaſion'd by a Sermon Preach'd at
+<hi>Chriſt's Church</hi> in <hi>Mancheſter,</hi> by Mr. <hi>Tho. Gips, Rector</hi> of <hi>Bury, a<g ref="char:EOLhyphen"/>gainſt Corrupting the World of God.</hi> I'll give the Reader an Idea of the Sermon, before I enter on the main Point.</p>
+            <p>His Text is in <hi>Prov. 30.6. Add<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>on not unto his Words, leſt he reprove Thee, and thou be found a Liar.</hi>
+            </p>
+            <p>After ſome Explication, he ſaith, <hi>The Text is levell'd againſt all manner of Corrupting the Word,</hi> p. <hi>2.</hi>
+            </p>
+            <p>
+               <hi>One eminent Inſtance of which I ſhall produce by and by, the Chief Rea<g ref="char:EOLhyphen"/>ſon of my undertaking this Subject.</hi>
+            </p>
+            <p>The whole Sermon conſiſts of but <hi>28</hi> Pages, and yet he overlooks the <hi>Chief Reaſon</hi> of his <g ref="char:V">Ʋ</g>ndertaking, till he comes to the <hi>20th</hi> Page, in theſe Words, <hi>and now I am come at length to the Point I chiefly aim'd to inſiſt on.</hi> 'Tis a ſign he wanted materials for his <hi>Chief Point,</hi> when he allows it but ſo little Room in his Sermon, tho' he had promiſed <hi>to husband his Time as Thriftily as might be, becauſe his Argument cou'd not eaſily be compriz'd in one ſingle Diſ<g ref="char:EOLhyphen"/>courſe,</hi> p. <hi>1.</hi>
+            </p>
+            <p>In handling of it, he promiſeth, <hi>1.</hi> To lay before us
+<hi>Negatively,</hi> what it is not to add or diminiſh. <hi>2. Poſitively,</hi> what it is.</p>
+            <p n="1">
+               <hi>1.</hi> Negatively, It is not adding, <hi>1.</hi> When we explain Scripture, <hi>p. 2.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> It is not diminiſhing, when we omit the Hebrew Titles of the <hi>Pſalms,</hi> and here he takes occaſion to quarrel with one Mr. <hi>De Laune,</hi> who it ſeems had cen<g ref="char:EOLhyphen"/>ſured this Omiſſion in the <hi>Pſalms</hi> uſed in the <hi>Liturgy, p. 3.</hi>
+            </p>
+            <p>He calls upon the Diſſenters to prove thoſe Hebrew Titles to be <hi>Original and Eſſential Parts of Scriptures.</hi>
+            </p>
+            <p>I will not enter into this Controverſie, but ſhall only take Notice, that the Titles are as <hi>ancient</hi> as the <hi>Pſalms</hi> themſelves, for ought appears to the contrary, they being in all the Hebrew and Greek Copies that ever I have ſeen: That the <hi>Jew<g ref="char:EOLhyphen"/>iſh Church</hi> receiv'd 'em as Parts of Scripture, and they are moſt of 'em tran<g ref="char:EOLhyphen"/>ſlated by the LXX, and by <hi>Theodotion, Symmachus</hi> and <hi>Aquila,</hi> as alſo by the <hi>Targumiſt,</hi> ſuppoſed to be <hi>R. Joſeph:</hi> That they are receiv'd in the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Church</hi> as Canonical Scripture,
+<hi>Jerom</hi> tranſlates them in his Verſion, and they are in the Modern Verſions, <hi>French, Dutch, Britiſh,</hi> and in the <hi>Engliſh</hi> Church-Bibles: That ſome of them are undeniably Canonical, as that of
+<hi>Pſalm 18.</hi> mention'd in <hi>2 Sam. 22.</hi> Others of them muſt be prefixed by the Renman, or by a Perſon Divinely Inſpired, for they refer to Paſſages of Hiſtory not mention'd in the Body of the <hi>Pſalm.</hi> Such are the Titles of <hi>Pſalm 3.</hi> and <hi>30.</hi> and <hi>34.</hi> and <hi>54.</hi> and <hi>56, &amp;c.</hi> The Title of the <hi>90. Pſalm, Is a Prayer of</hi> Moſes, <hi>the Man of God.</hi> He is not mention'd at all in this <hi>Pſalm,</hi> nor is this <hi>Pſalm</hi> mention'd in all his other Writings.</p>
+            <pb facs="tcp:97325:4" rendition="simple:additions"/>
+            <p>If the Titles, or any one of them, be Eſſential Parts of Scripture; the Rector hath help'd Mr. <hi>De Laune</hi> to a ſtrong Argument, againſt the omitting of them, <hi>viz.</hi> that it is <hi>a diminiſhing from the Word of God.</hi>
+            </p>
+            <p>It had been his Diſcretion to have omitted this Head of his Sermon; but ſome People can't but expoſe their unthought-of-Faults by an unſeaſonable and weak at<g ref="char:EOLhyphen"/>tempt to cover them.</p>
+            <p>He asks, <hi>Why the Titles are not always Tranſlated?</hi> The Biſhops cou'd beſt reſolve that Queſtion, whoſe Tranſlation the Diſſenters uſe. His other Queſtions there, are not worth the Anſwering, <hi>p. 3, 4.</hi>
+            </p>
+            <p n="3">
+               <hi>3. It is not a diminiſhing from the Word</hi> (ſaith he) <hi>when we read ſome Verſes of a Chapter, omitting the reſt for that Time,</hi> p. <hi>5.</hi>
+            </p>
+            <p>But what if they be omitted <hi>at all Times?</hi> As ſome Chapters and Books are in the <hi>Kalender;</hi> it ſeems, according to the Rector's Reſtriction, a diminiſhing from the Word of God.</p>
+            <p>I leave him and Mr. <hi>De Laune</hi> to argue, Whether the Epiſtles and Goſpels do not in divers Places ruine the Scope and Connexion, which is the Subject of this and the two next Pages, <hi>p. 6, 7.</hi>
+            </p>
+            <p n="4">
+               <hi>4. It is not adding to the Word</hi> (continues he)
+<hi>when ſeveral Paſſages of Scripture, are caſt into one Complex Senſe.</hi>
+            </p>
+            <p>Here he falls ſoul upon Mr. <hi>De Laune</hi> again, for affirming that in the Litur<g ref="char:EOLhyphen"/>gy-Tranſlation of the <hi>Pſalms,</hi> three whole Verſes are foiſted into the <hi>14th. Pſalm.</hi>
+            </p>
+            <p>To this he Anſwers, that <hi>thoſe Verſes are in the Epiſtle to the</hi> Romans, <hi>Cap. 3. and in the LXX Tranſlation, which for ought he knows is of as good Authority, as the</hi> Hebrew <hi>at this Day is,</hi> and to be preferr'd before the <hi>He<g ref="char:EOLhyphen"/>brew</hi> in this 14th.
+<hi>Pſalm,</hi> p. <hi>8, 9.</hi>
+            </p>
+            <p>That thoſe additional Verſes are in <hi>Rom. 3.</hi> no Body Queſtions; and that they were tranſcribed out of that
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſtle into the LXX Verſion, <hi>Jerom</hi> poſitively affirms, <hi>Prefat.</hi> Lib. <hi>16. in Iſa.</hi> And he adds in the ſame Place, that theſe Ver<g ref="char:EOLhyphen"/>ſes are not in the LXX Tranſlation, and that none of the <hi>Greek</hi> Interpreters have Commented on them.</p>
+            <p>It is certain, they are not to be found in moſt of the
+<hi>Greek</hi> Copies, Manuſcript and Printed, <hi>vid. Fr. Luc. Burgſ. in Lib. Notat. ad varias Lect. Vulg. Edit.</hi>
+            </p>
+            <p>I will not Diſpute at this time the Authority of the LXX, but if it be as good as the preſent <hi>Hebrew</hi> Copy, it is very uncertain what becomes of the Rector's <hi>Text,</hi> for it is not in my Edition of the
+<hi>Septuagint,</hi> Printed at <hi>Cambr. 1665 Juxta exem<g ref="char:EOLhyphen"/>plar Vaticanum,</hi> which is one of the beſt Copies. Thus the Rector by maintaining one abſurdity runs himſelf into more, and by advancing the <hi>Septuagint,</hi> hath loſt his Text.</p>
+            <p>We have Reaſon to believe that the <hi>Hebrew</hi> Copies were incorrupt in our Saviours Time, who never charged the <hi>Jews</hi> with corrupting the Scriptures. And <hi>Philo</hi> not long after, writes, that
+<hi>even unto his Times, for the ſpace of above 2000 Years, not one Word had ever been chang'd in the Law of the</hi> Hebrews, <hi>and that e<g ref="char:EOLhyphen"/>very</hi> Jew
+<hi>would ſooner dye a hundred Deaths, than ſuffer the Law to be chang'd in any one Point.</hi> Phil de Egreſs. fil. <hi>Iſr.</hi> ab <hi>Aegypto.</hi> This Teſti<g ref="char:EOLhyphen"/>mony is cited by <hi>Euſeb.</hi> Praepar. <hi>Evang. VIII.
+2.</hi>
+            </p>
+            <pb facs="tcp:97325:4" rendition="simple:additions"/>
+            <p>The Invention of the <hi>Maſora,</hi> in which all the Verſes, Words, and Letters of all the Books of the Old Teſtament are number'd, has been an effectual means to preſerve the Purity of the <hi>Hebrew</hi> Copies. If it be as old as <hi>Ezra</hi> the Scribe, as the Learned <hi>Buxtorf</hi> conceives, it renders it impoſſible that any Corruption ſhould have crept into the <hi>Hebrew</hi> Copies, <hi>vid. Buxt. Tiberias.</hi>
+            </p>
+            <p>But if it were written after the <hi>Talmud,</hi> by the
+<hi>Jews</hi> of <hi>Tiberias</hi> about the Year <hi>500.</hi> as <hi>Elias Levita, Capellus,</hi> and others think, it has undeniably ſecured the
+<hi>Hebrew</hi> Copies from all Corruption ſince that Time. And it is highly impro<g ref="char:EOLhyphen"/>bable, they ſhould be corr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pted between <hi>Philo's</hi> Time, and the Invention of the
+<hi>Maſo<g ref="char:EOLhyphen"/>ra,</hi> according to this latter Hypotheſis. For the
+<hi>Hebrew</hi> Copies which <hi>Jerom</hi> had towards the latter end of the Fourth Century were incorrupt, and had not the addi<g ref="char:EOLhyphen"/>tional Verſes in
+<hi>Pſalm 14.</hi> Nor can we imagine that the <hi>Jews</hi> of that Age had degenerat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from the Zeal of their Anceſtors for the Purity of the Law.</p>
+            <p>The Rector himſelf allows the <hi>Maſora</hi> to be before the Birth of Chriſt, <hi>for</hi> ſaith he, <hi>The</hi> Jews <hi>were Religious to Superſtition, as may be thought, counting the very Letters of the Bible to preſerve it intire: Hereunto our Lord al<g ref="char:EOLhyphen"/>ludes</hi> in <hi>Mat.
+5.18.</hi> p. <hi>13.</hi>
+            </p>
+            <p>On the other Hand, it's certain we have not a pure Verſion of the LXX at this Day, as all the Learned agree. And Dr. <hi>Lightfoot</hi> affirms more than once, that the Tranſlation that goes under the name of the LXX was dreſt with <hi>more Craft than Sincerity</hi> by the firſt Interpreters, and gives many Inſtances of it, <hi>Vol. 1.</hi> p. <hi>401,
+402 667. 806.</hi> and <hi>Vol 1. p. 1004, 1005.</hi>
+            </p>
+            <p>It is unfair therefore in the Rector to depreſs the Authority of the <hi>Hebrew</hi> Copies in favour of the LXX (which differs greatly from
+'em) and thereby tempt Peo<g ref="char:EOLhyphen"/>ple to queſtion the Purity of our authorized
+<hi>Engliſh</hi> Bibles, which are all Tranſla<g ref="char:EOLhyphen"/>tions of the
+<hi>Hebrew.</hi>
+            </p>
+            <p>We agree with him in the next Head, that</p>
+            <p n="5">
+               <hi>5. It is not corrupting the Word, when we tranſlate it into Vulgar Tongues,</hi> p. <hi>9. to</hi> p. <hi>12.</hi>
+            </p>
+            <p n="6">
+               <hi>6. It is not adding to the Word, when a new Prophet ariſing delivers ſome further Meſſages to the Churches, which are affixt to the Canon of the Scripture; ſo all the following Books of Scripture, notwithſtanding my Text, were added to the Canon unto the end of</hi> Revelations, <hi>where (for ought we yet know) the Book is ſhut up,</hi> p. <hi>12.</hi>
+            </p>
+            <p>Here he ſeems uncertain, whether we may not yet expect <hi>new Revelation,</hi> and a <hi>new Canon of Scripture.</hi> For our parts we are Content with that we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſhall leave this Point to be concerted between the Rector and the Quakers.</p>
+            <p n="2">
+               <hi>2.</hi> He ſhews Poſitively, when we add or diminiſh from the Word.</p>
+            <p n="1">
+               <hi>1. We diminiſh, when we caſt away any, never ſo little Part of it,</hi> p. <hi>13.</hi>
+            </p>
+            <p>I leave it to Conſideration, Whether the Titles of the
+<hi>Pſalms</hi> be not a little Part of the Word of God, and own'd for ſuch in our authorized Bibles.</p>
+            <p>
+               <hi>But yet Intereſt has a Byaſs,</hi> adds he, <hi>inſtance M.</hi> (he would ſay <hi>Juſtin Martyr</hi>) <hi>has charged the</hi> Jews
+<hi>with this Practice.</hi>
+            </p>
+            <p>Juſtin M. charges them with corrupting the LXX, but not the Original <hi>He<g ref="char:EOLhyphen"/>brew,</hi> which he ought to have taken Notice of.</p>
+            <pb facs="tcp:97325:5" rendition="simple:additions"/>
+            <p n="2">
+               <hi>2. Then we diminiſh when we reject whole Books, as the</hi> Sadducees <hi>and</hi> Samaritans <hi>of old did, all but the five Books of</hi> Moſes, <hi>p. 14.</hi>
+            </p>
+            <p>It is a Vulgar Error, that the <hi>Sadducees</hi> and
+<hi>Samaritans</hi> rejected all the Old Teſtament, but the five Books of
+<hi>Moſes,</hi> occaſion'd by a Paſſage in <hi>Joſephus That the</hi> Sadducees <hi>received the Law only,</hi> Antiq. <hi>Jude XVIII. 2.</hi> Where a he ſpeaks of the <hi>written Law</hi> in Oppoſition to the <hi>Oral Law,</hi> which the <hi>Phari<g ref="char:EOLunhyphen"/>ſees</hi> rec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived. Thus he explains himſelf, <hi>Antiq. Jude XIII. 18.</hi>
+            </p>
+            <p>Dr. <hi>Lightfoot</hi> gives Inſtances of their owning other parts of Scripture, <hi>Vol 2.</hi> p. <hi>541, 542.</hi>
+            </p>
+            <p n="3">
+               <hi>3. We diminiſh from the Word, when we lay it aſide as not neceſſary or not the Supream Rule of Faith,</hi> p. <hi>14.</hi>
+            </p>
+            <p>This implies, as if if there were ſome other, at leaſt ſubordinate Rules of Faith<g ref="char:punc">▪</g> What theſe are, he does not think fit to tell us? We know no Rule of Divine Faith but the Holy Scriptures.</p>
+            <p>From the 15th to the 20th Page, he well aſſerts the
+<hi>Sufficiency, Perſpicuity and Supream Authority of the Scriptures,</hi> p.
+<hi>15. to</hi> p. <hi>20.</hi>
+            </p>
+            <p>Were this Principle practically acknowledg'd, it would ſoon heal our Breaches, by diſpoſing Men to lay aſide the <hi>unſcriptural Terms</hi> of Chriſtian Communion, which have been the fatal Engines of Diſunion and Schiſm.</p>
+            <p n="4">
+               <hi>4. We diminiſh from the Word, when we add any thing to it,</hi> p. <hi>20.</hi>
+            </p>
+            <p>He gives two Inſtances of this, <hi>1. When any thing is tack'd unto the Word not belonging to it, as is the</hi> Apocrypha <hi>by the</hi> Papiſts, <hi>but I haſten,</hi> ſaith the Rector.</p>
+            <p>But why in ſo much haſt? You muſt know he is upon a tender Point, which would not be long dwelt upon. But if he be not in too much haſte, I with tell him a Story in his Ear, of a ſort of People that leave out a conſiderable Part of Canonica. Scripture, as the 1ſt. and 2d. Books of <hi>Chronicles,</hi> much of <hi>Ezekiel, the Song of</hi> Solomon, and moſt of the <hi>Revelation,</hi> and ſubſtitute in the room of it, a great Part of the <hi>Apocrypha,</hi> and among other Paſſages the fabulous Story of <hi>Bell</hi> and <hi>Dragon,</hi> to be Read in the Publick Congregation, for two Months of the Year: Which tempts Ignorant People to fancy the Bible is not compleat without the <hi>Apo<g ref="char:EOLhyphen"/>crypha.</hi>
+            </p>
+            <p>But we muſt not detain him too long from his <hi>Chief Point,</hi> to which he is come at length under the next Head.</p>
+            <p n="2">
+               <hi>2. We both add to the Word and diminiſh from it, when we alter it, eſpecially ſo as that it carries quite another Senſe, than what was intended by the Spirit of God. And now I am come at length</hi> (ſaith he) <hi>to the Point I chiefly aim'd to inſiſt on,</hi> p.
+<hi>20.</hi>
+            </p>
+            <p>The proſecuting of this Point takes up the eight laſt Pages.</p>
+            <p>Having given this Scheme of the Sermon, we will now follow him to his <hi>Emi<g ref="char:EOLhyphen"/>nent Inſtance of corrupting the Word, the chief Reaſon of his Undertaking this Subject.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:97325:5"/>
+            <head>THE <hi>Diſſenters Vindicated</hi> FROM Mr. <hi>GIP</hi>'s Unjuſt Accuſations.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP I.</hi> Some General Conſiderations relating to the Charge.</head>
+               <p>THE <hi>Rector</hi> of <hi>Bury,</hi> whoſe Genius leads him to <hi>New Diſcoveries,</hi> oblig<g ref="char:EOLhyphen"/>ed us laſt Summer with a <hi>Tentamen Novum</hi> (ſo he ſtiles his Diſcourſe) in which he <hi>endeavours</hi> to prove, That the <hi>Diſſenters</hi> have <hi>no Miniſtry:</hi> He now favours us with <hi>another,</hi> to repreſent 'em in effect, as <hi>no Christi<g ref="char:EOLhyphen"/>ans,</hi> for he Charges them with no leſs a Crime than contributing to the Undermining the <hi>Foundation</hi> of <hi>Christianity. p.</hi> 25,
+26.</p>
+               <p>I have already examined his <hi>Tentamen,</hi> and ſhall now make ſome Remarks upon his <hi>Sermon.</hi>
+               </p>
+               <p>He tells us in the <hi>Title-Page,</hi> That it was Preach'd
+<hi>upon a Publick Occaſion,</hi> that is, as I
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m inform'd, at the
+<hi>Biſhop's Viſitation.</hi> It was <hi>Concio ad Clerum,</hi> and if he wanted <hi>Courage</hi> to be his <hi>Lordſhip</hi>'s <hi>Remembrancer</hi> in the Duties of his <hi>high station,</hi> one might have ex<g ref="char:EOLhyphen"/>pected a Teſtimony from him againſt the <hi>ſhameful Scandals</hi> of ſome of the <hi>Clergy,</hi> too no<g ref="char:EOLhyphen"/>torious to be either palliated or deny'd: Or if he durſt not Expoſe their <hi>Immoralties,</hi> l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt he ſhould ſeem to <hi>bewray his own Nest</hi> (which he ſeems tender of, <hi>p.</hi> 22.) was there
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o occaſion of exciting his Brethren to greater diligence and application in their ſeveral Provinces. Something of this nature would have ſuited the preſent <hi>occaſion,</hi> and have become a <hi>faithful</hi> Diſpenſer of the <hi>Oracles of God.</hi>
+               </p>
+               <p>But the <hi>Rector</hi> had other work to do. His buſineſs was not ſo much with the <hi>Auditory</hi> that was <hi>preſent,</hi> as with a ſort of People that <hi>were out of hearing,</hi> and theſe he comes not to <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pprove</hi> for
+<hi>open miſcarriages,</hi> but to <hi>accuſe</hi> of ſome ſecret
+<hi>Crimes,</hi> which no body but him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf pretends to know any thing of. All the Concern he had with the
+<hi>Reverend Aſſembly</hi> to which he Preach'd, was to endeavour to raiſe in them an <hi>ill-natur'd paſſion,</hi> (which he miſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alls <hi>Zeal</hi>) towards an
+<hi>innocent People,</hi> whom he wretchedly miſrepreſents, and renders
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>black</hi> as Hell.</p>
+               <p>He Charges 'em with no leſs a Crime than <hi>Corrupting the Word of God.</hi> p. 2. &amp; 24.</p>
+               <p>And tho his <hi>Diligence and Obſervation has not been a little</hi> (as he tells us <hi>p.</hi> 22.) in ſearch<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the ſeveral Editions of the Bible, he can find but one inſtance of this Corruption in the whole Bible, and that amounts to no more than the change of one Letter for ano<g ref="char:EOLhyphen"/>ther, <pb n="2" facs="tcp:97325:6"/>
+                  <hi>viz. w</hi> into <hi>y</hi> in <hi>Acts</hi> 6.3. <hi>whom</hi> we
+<hi>may appoint,</hi> ſo it ought to be; but ſome Editions have it,
+<hi>whom</hi> ye <hi>may appoint,</hi> by an over-ſight of the
+<hi>Printer,</hi> who has ſubſtituted a <hi>y</hi> for a <hi>w.</hi> This Literal Miſtake might eaſily happen, the upper part of a <hi>Roman</hi> y being a ſingle v.</p>
+               <p>Doth not this inquiſitive Man labour under a ſad deficiency of matter to accuſe us of? and is he not hard put to it to <hi>ſeek occaſion against us,</hi> when he is glad to Muſter up the
+<hi>Errata</hi>'s of the Preſs, and turn them into <hi>Presbyterian Crimes.</hi>
+               </p>
+               <p>This is another <hi>Tentamen novum,</hi> and the Truth is, all our Authors Productions are like theſe of. <hi>Africa, new</hi> and
+<hi>monstrous?</hi>
+               </p>
+               <p>I can ſcarce think him ſo <hi>Weak,</hi> as to believe his own <hi>Charge,</hi> it is ſo very <hi>ſilly</hi> and
+<hi>in<g ref="char:EOLhyphen"/>conſistent,</hi> that nothing but the <hi>Sin</hi> and
+<hi>Malice,</hi> which appear in every part of it, can pre<g ref="char:EOLhyphen"/>ſerve it from being <hi>ridiculous.</hi>
+               </p>
+               <p>However, he would have others believe, That there is a World of Conſequences de<g ref="char:EOLhyphen"/>pending upon theſe two Words <hi>we</hi> and <hi>ye; We</hi> refers to the <hi>Apostles,</hi> and <hi>authorizes</hi> the
+<hi>Biſhops</hi> to appoint <hi>Deacons</hi> or <hi>Pariſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-Ministers</hi> (ſaith he)
+<hi>Ye</hi> refers to the People, and gives them the Power of appointing Miniſters. <hi>p.</hi> 21.</p>
+               <p>For this Reaſon (affirms he) the <hi>Presbyterians</hi> have corrupted this place (<hi>Acts</hi> 6.3.) to <hi>advance the Peoples Power to ſet up their own Teachers.</hi> (<hi>p.</hi> 23, 24, 25.)</p>
+               <p>He is a Man of <hi>unparallel'd Confidence,</hi> that dare undertake to perſwade the World the truth of this Accuſation, which is ſo
+<hi>notorious a ſlander,</hi> that I do not think any degree of Credulity, below that which bids defiance to all our Senſes, can entertain it under any other Notion.</p>
+               <p>The <hi>Preſbyterians,</hi> as their very enemies muſt acknowledge, admit none into the Mini<g ref="char:EOLhyphen"/>ſtry without the <hi>laying on of the hands of the Presbytery,</hi> and they take the Deacons in <hi>Acts</hi> 6. (as I ſhall prove anon) for <hi>Ministers of Tables,</hi> and not for
+<hi>Ministers of the Goſpel:</hi> So that their Principles and Practice are directly oppoſite to the Hypotheſis which he pretends is favoured by this corruption. He acquits the <hi>Epiſcopal Party</hi> from a deſign'd corrupting of this place, becauſe the Corruption is inconſiſtent with their Principles, <hi>p.</hi> 24.</p>
+               <p>By the ſame reaſon he muſt acquit the
+<hi>Presbyterians</hi> alſo, or involve himſelf and Party in the ſame guilt.</p>
+               <p>I do here ſolemnly Proteſt in the Preſence of the Supream Judge, that I never knew any <hi>Protestant Diſſenter,</hi> Miniſter or Layman, that expreſs'd his Approbation of that cor<g ref="char:EOLhyphen"/>rupt Reading in
+<hi>Acts</hi> 6.3. and I believe very few of them ever took notice of it, for moſt Editions of the Bible have it not.</p>
+               <p>If the Charge exhibited againſt us be falſe, as I ſhall anon demonſtrate beyond Con<g ref="char:EOLhyphen"/>tradiction, our <hi>Accuſer is found a liar</hi> (to uſe the words of his Text, <hi>Prov.</hi> 30.6.) and condemn'd out of his own Mouth of <hi>One of the most detestable ſins in the ſight both of God and Man,</hi> ſo he calls a <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ye, p.</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>We plead <hi>not guilty</hi> to the Charge, and we hope the
+<hi>Rector</hi> will not require us to prove <hi>a Negative,</hi> the Proof lies on his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de. If a bold and malicious <hi>Accuſation</hi> may paſs for a <hi>Crime,</hi> who can be innocent? Our Accuſer ought in Juſtice to produce moſt clear and convincing proofs of this <hi>Vill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny,</hi> which he has not yet offer'd; his <hi>circumstan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ial proof</hi> ſhall be conſider'd before we part with him.</p>
+               <p>
+                  <hi>It is the manner of ſome men</hi> (as he for good reaſons obſerved) <hi>to accuſe stoutly</hi>— <hi>for tho nothing be proved, yet ſomething will stick,</hi> p. 5. Which Political Maxim he ſeems to have well digeſted, as will appear in the following Charge, for thus he ſpeaks:</p>
+               <p>
+                  <q rend="margQuotes">I will not be ſo poſitive as to aver, that it was at Firſt induſtriouſly done, yet I muſt call into Queſtion the <hi>Diſſenters,</hi> as perſons <hi>ſuſpected</hi> to have <hi>ſecretly</hi> contributed to the corruption of this place, at leaſt, to the continuance and encreaſe of it. <hi>p.</hi> 23.</q>
+               </p>
+               <p n="1">1. This Accuſation puts me in mind of a form of Accuſation not unlike this in <hi>Minucius Foelix,</hi> who brings in
+<hi>Cacilius</hi> a Heathen, charging the Chriſtians with <hi>incestuous mixtures,</hi> Thyeſtean <hi>Feasts, worſhipping the Head of an Aſs, and the</hi> Genitalia <hi>of their Priests;</hi> and not being able to prove ſo vile a Calumny, he minceth the matter, and ſaith, <hi>neſcio an falſa, certe occultis ac nocturnis ſacris appoſita ſuſpicio. i. e.</hi> I am not certain but the Report <pb n="3" facs="tcp:97325:6"/>may be falſe, but their Secret and Night-meetings may be ſufficient to ground a <hi>ſuſpi<g ref="char:EOLhyphen"/>cion</hi> on.<note n="†" place="bottom">
+                     <hi>Min. Foel. Octav.</hi> p. 27,
+28.</note>
+               </p>
+               <p>Both theſe Calumniators were viſibly acted by one and the ſame <hi>Genius,</hi> which enabled them to give an account of Secret Actions, and to turn Suſpicions into Proofs. Only the <hi>Pagan</hi> is the more honeſt of the two, for he Reports but <hi>what he heard</hi>
+                  <note n="*" place="bottom">Audio eos turpiſſimae pecudis caput Aſini conſecratum— venerari—al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i cos ſerunt— <hi>Ibid.</hi>
+                  </note>; and ſeems to doubt of the Truth of it, but our Chriſtian Rector glories in being the Diſcoverer of this great Secret, and Reports a Figment of his own Brain, for an Undoubted Truth.</p>
+               <p>It would make any one but a Man of Mr. <hi>G.</hi> 's effrontery to bluſh, that a <hi>Heathen</hi> ſhould out-ſhine him in Candour and Modeſty.</p>
+               <p n="2">2. If the <hi>Diſſenters</hi> have ſecretly corrupted this place, how comes he to know it? Did they make him their
+<hi>Confeſſor,</hi> and reveal this Secret to him, as the only Perſon fit to be truſted with it? That cannot be, for it would have furniſhed him with a Direct Proof, which he does not pretend to, <hi>p.</hi> 23. Or deth he dream
+<hi>Dreams,</hi> or ſee <hi>Viſions?</hi> Or perhaps, ſuch a Man as he can <hi>Divine,</hi> and by a <hi>Prophetic Sagacity,</hi> tell the Words that we ſpeak in our Bed-Chambers.</p>
+               <p>But we muſt not be too curious in our Inquiry, how the Rector came to diſcover this Secret Artifice of the <hi>Diſſenters,</hi> for that alſo is a Secret, which he has not thought fit to publiſh.</p>
+               <p>The Truth is, this looks like the Tale which the <hi>Jewiſh Priests</hi> put into the Mouths of the Souldiers that watch'd the Sepulcher of Jeſus Chriſt. <hi>Matth.</hi> 28.13. <hi>Say ye, his Diſciples came by Night, and ſtole him away while we ſlept.</hi> If they were aſleep, how could they tell the Diſciples ſtole him away? But it was enough to ſatisfie ſome People, that the thing was <hi>ſecretly</hi> done, and the Diſciples might well <hi>be call'd into question as perſons ſuſpected.</hi> The Soldiers were rare Witneſſes in the Caſe, for they were aſleep when the <hi>Feat</hi> was done, as the Overſeers of the Preſs were, as the Rector affirms, when the firſt Corrupt Edition happen'd at <hi>Cambridge, p.</hi> 23. Whether the <hi>Jewiſh Priests</hi> and the
+<hi>Rector</hi> have compared Notes together, I know not; but it's no new thing for <hi>Good Wits to jump,</hi> and concur in <hi>abſtruſe Diſcoveries.</hi>
+               </p>
+               <p n="3">3. Had not the Rector examined the <hi>Errata</hi> of the Preſs, more out of ill will to the <hi>Diſſenters,</hi> than good will to the Publick, his great <hi>diligence</hi> and <hi>obſervation</hi> (which he brags of, <hi>p.</hi> 22.) might have diſcovered more faults than this one in the ſeveral Editions of the Bible.</p>
+               <p>But that was not to his purpoſe, and it would have been inconſiſtent with <hi>the Point which he chiefly aimed to inſiſt on, p.</hi> 20. which was the accuſing of the <hi>Presbyterians</hi> with Corrupting the Word of God. Had he ſearched for other Errors of the Preſs, many would have occurr'd as conſiderable as this of <hi>Ye</hi> for
+<hi>We,</hi> which he cou'd not with any colour, charge upon the
+<hi>Diſſenters.</hi>
+               </p>
+               <p>It is a thing much to be lamented. That ſeveral Editions of the Holy Bible, eſpecially the ſmaller Volumes, which paſs through more hands than the larger, are very un-correct, and abound with ſuch Errors as are deſtructive of the ſenſe.</p>
+               <p>It's the Province of ſome of the Biſhops (as I am inform'd) to take care that the ſeveral Editions of the Bible be well done: And I humbly conceive, it were an Under<g ref="char:EOLhyphen"/>taking worthy the <hi>Suprem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Overſeers of the Hock, at leaſt to depute others to provide wholſome Food for them, by more C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrect Impreſſions of the Bible.</p>
+               <p>I have a ſmall <hi>duodecimo</hi> Bible by me, Printed at
+<hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>don</hi> by <hi>Charles Bill,</hi> and the Exe<g ref="char:EOLhyphen"/>cutrix of <hi>Thomas Newcomb,</hi> 1691. which is abominably faulty. It is right in <hi>Act.</hi> 6.3. <hi>whom</hi> we <hi>may appoint,</hi> and ſo is free from the Corruption charg'd upon the <hi>Diſſenters;</hi> but has ſeveral others as bad as that. For Inſtance,</p>
+               <p>
+                  <hi>Eph.</hi> 1.4. <hi>According as he hath choſen us</hi>— <hi>that</hi> ſhe <hi>ſhould be holy:</hi> It ſhould be,
+<hi>that</hi> we <hi>ſhould be holy.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <pb n="4" facs="tcp:97325:7"/>
+               <p>Have ſome Bibles <hi>ye</hi> for <hi>we</hi> in <hi>Act.</hi>
+6.3.? So have others <hi>ſhe</hi> for <hi>we</hi> in <hi>Eph.</hi> 1.4. Is this Corruption alſo to be imputed to the Diſſenters?</p>
+               <p>In a <hi>Quarto</hi> Edition of the Bible, by <hi>Hays</hi> at
+<hi>Cambridge</hi> 1675. <hi>Job</hi> 6.21. inſtead of ye <hi>are nothing,</hi> 'tis Printed, we <hi>are nothing.</hi> So that <hi>we</hi> and
+<hi>ye</hi> are eaſily miſtaken one for another.</p>
+               <p>The Rector is a Man of Diligence and Obſervation, and would do well to find out the Author and the Reaſons of this Corruption.</p>
+               <list>
+                  <item>Gal. 5.21 — <hi>of the which I</hi> the <hi>you before</hi>— It ought to be —<hi>of the which I tell you before.</hi>
+                  </item>
+                  <item>2 Tim. 1.18. <hi>The Lord grant unto him that he may</hi> and <hi>mercy;</hi> inſtead of— find <hi>mercy.</hi>
+                  </item>
+                  <item>Acts 19.26. <hi>They be no</hi> Goods <hi>which are made with hands,</hi> It ſhould be read, <hi>They be no</hi> Gods</item>
+                  <item>Titus 3.2. <hi>Put 'em in mind— to be</hi> on
+<hi>brawlers,</hi> It ſhould be no <hi>brawlers.</hi>
+                  </item>
+                  <item>James 5.12. <hi>Let your yea be yea, and your nay,</hi> day; It ſhould be read— <hi>and your nay, nay.</hi>
+                  </item>
+                  <item>1 Pet. 2.17. <hi>Love the</hi> brothergood, for
+<hi>brotherhood.</hi>
+                  </item>
+                  <item>Heb. 12.13. oul <hi>of the way,</hi> for <hi>out of the way.</hi>
+                  </item>
+                  <item>Rom. 1.18. <hi>who hold</hi> we <hi>truth</hi> (for <hi>the truth</hi>) <hi>in unrighteouſneſs.</hi>
+                  </item>
+                  <item>Hoſh. 8.6. <hi>the</hi> Caſt (for <hi>the</hi> Calf)
+<hi>of Samaria.</hi>
+                  </item>
+                  <item>—12.11. ſurety (for <hi>ſurely</hi>) <hi>they are vanity.</hi>
+                  </item>
+                  <item>Iſa. 63.2. —treateth <hi>in the Winefat,</hi> for
+<hi>treadeth in</hi>
+                  </item>
+                  <item>Matth. 17.25. <hi>Jeſus prevented</hi> how, for
+<hi>him.</hi>
+                  </item>
+                  <item>Act 10.34. <hi>God is no</hi> reſecter (for
+<hi>reſpecter</hi>) <hi>of perſons.</hi>
+                  </item>
+                  <item>—15.2. them (for <hi>they</hi>) <hi>determined that</hi> Paul <hi>and</hi> Barnabas</item>
+                  <item>—27.13. ſort, ly, for <hi>ſoftly.</hi>
+                  </item>
+                  <item>Rom. 2.14. Laws, <hi>for Law,</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</item>
+                  <item>—2.18. approved, for <hi>approvest,</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</item>
+                  <item>Jer. 23.36. <hi>and the</hi> battle (it ſhould be
+<hi>the</hi> burthen) <hi>of the Lord ſhall ye memion no more.</hi>
+                  </item>
+                  <item>—16.13. others <hi>Gods,</hi> for <hi>other</hi> Gods.</item>
+                  <item>—18.3. <hi>on</hi> me <hi>Wheels,</hi> for
+<hi>on</hi> the <hi>Wheels.</hi>
+                  </item>
+                  <item>Pſalm. 36.8. fatners, for <hi>fatneſs of thy Houſe.</hi>
+                  </item>
+                  <item>Matth. 20.12. hear <hi>of the day,</hi> for <hi>heat of the day.</hi>
+                  </item>
+               </list>
+               <p>I cou'd mention many more <hi>Errors</hi> of the like nature, which either make no ſenſe, or a corrupt one. But the <hi>Rector</hi>'s Diligence and Obſervation can overlook ſuch little Errors as theſe, as not pertinent to the Deſign he had in hand, which was only to diſcover ſuch Corruptions as may ſeem to concern the Biſhops Intereſt, or give him any occaſion to <hi>calumniate</hi> the Diſſenters.</p>
+               <p>Have a care of ſuch Errors as may ſeem to favour the
+<hi>Diſſenters,</hi> and to weaken the <hi>Biſhops power,</hi> and this mighty man of Diligence, Obſervation and Faithfulneſs, <hi>p.</hi> 22. can eaſily paſs by all the reſt.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="5" facs="tcp:97325:7"/>
+               <head>
+                  <hi>CHAP. II.</hi> In which his <hi>Arguments</hi> are Anſwer'd.</head>
+               <p>BEFORE we come to his Proofs, we'll take a view of the Charge, and its Ag<g ref="char:EOLhyphen"/>gravations, as they lie ſcattered here and there, in his Epiſtle and Sermon. The ſumm of the Charge is,
+<q rend="margQuotes">That he ſuſpects the
+<hi>Presbyterians</hi> have cor<g ref="char:EOLhyphen"/>rupted <hi>Acts</hi> 6.3. in the Year 1638, and ſecretly promoted the Coruption
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſince. <hi>p.</hi> 22. 23, 27.</q>
+               </p>
+               <p>The Aggravations follow:</p>
+               <p>
+                  <q rend="margQuotes">Some People (ſaith he) will doubtleſs be angry, that their <hi>foul-play</hi> is brought upon the ſtage, and thus openly taxt— Again, "The Error muſt be confeſt, and believ'd a <hi>wilful one</hi>— "When the <hi>Presbyterian</hi> Government (or <hi>Congregational,</hi> I can't tell which) is publickly maintain'd by a Text of Scripture, manifeſtly corrupted, 'tis high time to make the World ſenſible of the Artifice. <hi>Epist.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margQuotes">The Adverſaries of Chriſtianity, with deſign to overthrow the whole frame of our Religion, have already endeavoured to take advantage of the numerous and various Lections. What will they ſay, when they obſerve the pureſt Kirk in the World (as is pretended) tampering with, and refining upon the Word of God? Let's not dare to ſuborn any falſe Witneſs whatever, much leſs out of the Word of Truth; let's leave that <hi>Vile Artifice</hi> to our Adverſaries on both hands.
+<hi>P.</hi> 26.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">What if one Bible of every Edition thus depraved were burnt, to expoſe the <hi>crafti<g ref="char:EOLhyphen"/>neſs</hi> of thoſe
+<hi>Circumcellians</hi> among us, who to advance their <hi>Deſign,</hi> do not ſtick. It ſeems, to promote it by <hi>Falſhood;</hi> and grounding themſelves upon a meer Error of the Preſs, as we will ſuppoſe it was at firſt, <hi>deceiving<g ref="char:punc">▪</g> and being deceived,</hi> do <hi>ly against the Holy Ghoſt,</hi> and bring a ſcandal upon the Word of God, and our Holy Religion, <hi>p.</hi> 27.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Is it poſſible to believe that one unhappy miſtake ſhould be ſo ſucceſsful, as to have got into ſo many Editions, without the helping hand of ſome wily and undermining
+<hi>Schiſmatick?</hi> p. 28.</q>
+               </p>
+               <p>The <hi>Charge</hi> you ſee, is very black, and repreſents the <hi>Diſſenters</hi> as the worſt of M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. That give advantage to the Enemies of Chriſtianity, That undermine the Scriptures of Truth, And promote their Opinions by the <hi>vilest Artifice.</hi>
+               </p>
+               <p>But when the Accuſation is duly conſider'd, and the Arguments by which it is ſupp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed, are impartially examined, they will be found to prove neither more nor leſs, than that the <hi>Rector</hi> is as deſtitute of
+<hi>Truth</hi> as he is of <hi>Charity.</hi>
+               </p>
+               <p>But let's hear how he proves his Charge.</p>
+               <p>He introduces it with this Queſtion,
+<q rend="margQuotes">Who then brought in this falſe Reading, (of <hi>ye</hi> for <hi>we</hi> in <hi>Acts</hi> 6.3. <hi>p.</hi>
+23.)</q> And what Party encouraged and promoted it ſince?</p>
+               <p>To which he anſwers,
+<q rend="margQuotes">A clear and ful<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Diſcovery would deſerve a <hi>Leca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onth.</hi> And tho I will not promiſe ſo much, yet ſomething I have to offer towards it, which tho it amounts not to a direct Proof againſt any Perſons, yet I think, may paſs for a good Circumſtantial one.</q>
+               </p>
+               <pb n="6" facs="tcp:97325:8"/>
+               <p n="1">1. 'Tis obſervable here, That he doth not pretend to a direct Proof, and yet through his whole Diſcourſe would have it taken for granted, That his Accuſation is as true as Goſpel. He would craftily inſinuate a Belief into his Reader, of what he heſitates about himſelf. One while he poſitively charges the <hi>Diſſenters</hi> with Foul-play, and ſaith,
+<q rend="margQuotes">Their Errour muſt be confeſs'd, and believ'd a wilful one. <hi>Epiſt. Dedic.</hi>
+                  </q>
+               </p>
+               <p>Another while he only queſtions the <hi>Diſſenters</hi> as perſons ſuſpected to have ſecretly contributed to the corruption of this place, at leaſt to the continuance of it. <hi>p.</hi> 23.</p>
+               <p>And in another place he ſaith,
+<q rend="margQuotes">They do not ſtick, it ſeems, to promote their Deſign by falſhood, <hi>p.</hi> 27.</q>
+               </p>
+               <p>Again,
+<q rend="margQuotes">Admit they did not contrive the Corruption of this place, yet now, belike, contribute to the confirming it,
+<hi>p.</hi> 24.</q>
+               </p>
+               <p>Here's a manifeſt inconſiſtency in the Charge, which ſpoils the Credit of the whole Story.</p>
+               <p>All the Evidence amounts to no more, than that it
+<hi>ſeems</hi> to be ſo, and <hi>belike</hi> it is ſo. And yet with what aſſurance doth he accuſe them of <hi>lying againſt the Holy Ghost?</hi> p. 27. 'Tis well he is not endued with the <hi>plenitude of Apoſtolical power,</hi> to inflict upon us the puniſhment of <hi>Ananias</hi> and
+<hi>Sapphira:</hi> But to make up the defect of this power, he moves thoſe in
+<hi>Authority to expoſe the Craftineſs of thoſe</hi> Circumcellians
+<hi>among us, who promote their deſign by falſhood,</hi> ibid.</p>
+               <p>By the way, I cannot but Note the <hi>new Name</hi> he is pleaſed to give the <hi>Diſſenters.</hi> It ſeems he had read ſomewhere of the <hi>Circumcelliones,</hi> a barbarous Sect of the
+<hi>Donatiſts,</hi> that murther'd ſuch as oppoſed their Opinions, and laid violent hands on themſelves that they might be thought to have ſuffer'd Martyrdom by the hands of the <hi>Catholicks.</hi>
+                  <note n="†" place="bottom">
+                     <hi>Aug.</hi> de Hocr.</note>
+               </p>
+               <p>His Tongue is his own to call what Names he pleaſeth, but he knows who ſaith, <hi>If any man among you ſeem to be Religious, and bridleth not his Torgue— this man's Religion is vain,</hi> James
+1.26.</p>
+               <p>You muſt not wonder that he overlooks a <hi>little Rule of Grammar</hi> in rendring <hi>Circum<g ref="char:EOLhyphen"/>celliones</hi> Circumcellians, for he does not ſeem to tye himſelf to ſuch <hi>Scripture-Rules</hi>
+                  <note n="*" place="bottom">
+                     <hi>Matth.</hi> 5.22.2.</note> as concern the ordering of our Speech, when his Choler is up againſt the <hi>Diſſenters.</hi>
+               </p>
+               <p>He is uncertain whom to fix this Charge upon, whether on a ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngle perſon, or a Party of Men combin'd together to corrupt the Word of God.</p>
+               <p>He ſeems to point at a ſingle perſon in the following words,
+<q rend="margQuotes">Is it poſſible to believe that one unhappy Inſtance ſhould get into ſo many Editions, without the helping hand of ſome wily and undermining Schiſmatick, <hi>p.</hi> 28.</q> In other places he taxeth the <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> in general, <hi>p.</hi> 23. Sometimes he makes the <hi>Presbyterians</hi> the guilty Party. <hi>p.</hi> 22.
+24.</p>
+               <p>And in another Humour he lays it on the <hi>Presbyterians</hi> or <hi>Corgregational Men,</hi> but con<g ref="char:EOLhyphen"/>feſſeth he <hi>can't tell which,</hi> Epiſt. Dedic. So that the Accuſation falls upon a ſort of
+<hi>indivi<g ref="char:EOLhyphen"/>duum v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gum,</hi> which he is to ſeek for.</p>
+               <p>Thus the Subjects of the Charge are as uncertain as the Evidence of it.</p>
+               <p n="3">3. All he pretends to, is a ſort of <hi>Circumſtantial Proof,</hi> as he calls it, and upon this <hi>ſandy foundation,</hi> he builds his whole Charge, which he aggravates with all the little
+<hi>Rhe<g ref="char:EOLhyphen"/>torick</hi> he is Maſter of.</p>
+               <p>He ſuggeſts Four Arguments by way of <hi>Circumſtantial Proof,</hi> which are as follows.</p>
+               <p>
+                  <hi>Argument</hi> I.</p>
+               <p>
+                  <q rend="margQuotes">I muſt call the
+<hi>Diſſenters</hi> into Queſtion (ſaith he) becauſe the Alteration happened in the Year 1638. <hi>Presbytery</hi> being then in the Aſcendant, I ſay, juſt in that nick of time when all things were in Preparation, and tended to the Subverſion of <hi>Epiſcopacy, Scot<g ref="char:EOLhyphen"/>land</hi>
+                     <pb n="7" facs="tcp:97325:8"/>having already made a Conſpiracy, and bound 'emſelves under a Curſe to Extir<g ref="char:EOLhyphen"/>pate it; and <hi>England,</hi> even a great part of the Univerſities 'emſelves, running into the ſame Exceſs of Riot. So that here is a Concurrence of the Circumſtance of Time, and a ſhrewd one too, ſufficient to ground a ſuſpicion upon.</q>
+               </p>
+               <p>To this I Anſwer:</p>
+               <p n="1">1. Admit there were a <hi>Concurrence of the Circumſtance of time,</hi> Will it follow the Cor<g ref="char:EOLhyphen"/>ruption was deſigned? May not two Events happen at the ſame time, that have no re<g ref="char:EOLhyphen"/>lation to one another?</p>
+               <p>How would he like it, if the <hi>Diſſenters</hi> ſhould charge the <hi>Epiſcopal Party,</hi> of which he is one, with the <hi>falſe Readings</hi> I mention'd above, and ſhould urge for Proof that the Im<g ref="char:EOLhyphen"/>preſſion came out in 1691, when the <hi>Epiſcopal</hi> Party <hi>had the Aſcendant,</hi> none being admit<g ref="char:EOLhyphen"/>ted to any places of Truſt without Conformity? Would not this way of Arguing look as <hi>ſilly</hi> as it would be <hi>malicious?</hi> Would not the Manager of ſuch a <hi>ridiculous accuſation,</hi> eſpecially in a <hi>Publick Sermon,</hi> be judg'd ſitter for <hi>Bedlam</hi> than a <hi>Pulpit?</hi> This way of Reaſoning, if I may <hi>Catachreſtically</hi> call it ſo, is the ſame with that of the <hi>Rector</hi>'s.</p>
+               <p>The above-mention'd Errors of the Preſs were in 91, when the
+<hi>Epiſcopal</hi> Party were more in the Aſcendant than the
+<hi>Presbyterians</hi> in 38. Here is a <hi>concurrence of the circum<g ref="char:EOLhyphen"/>ſtance of time,</hi> and yet I am apt to think, the weakeſt <hi>Diſſenter</hi> in the Land has more <hi>Senſe</hi> and <hi>Honeſty</hi> than to charge the
+<hi>Epiſcopal</hi> Church with the Errors of the Preſs.</p>
+               <p n="2">2. But to do him Juſtice, the <hi>Rector</hi> is ſo kind to the <hi>Diſſenters</hi> as to Anſwer his own Ar<g ref="char:EOLhyphen"/>gument for 'em. His Argument pretends to prove from the <hi>circumstance of time,</hi> that the firſt alteration of <hi>we</hi> into <hi>ye,</hi> was deſign'd: But himſelf acknowledges again and again in other places, that the <hi>firſt
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ror</hi> was an
+<hi>unwilling one;</hi> ſo he ſpeaks in the <hi>Epiſtle.</hi> And in
+<hi>p.</hi> 27. he calls it an <hi>accide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tal ſlip,</hi> an <hi>unfortunate overſight,</hi> and a <hi>meer error of the Preſs.</hi> And in
+<hi>Page</hi> 28, he calls it, <hi>an unhappy miſtake.</hi>
+               </p>
+               <p>So that his Firſt Argument is impertinent, himſelf being Judge. But for further ſatiſ<g ref="char:EOLhyphen"/>faction, I will add a few Remarks more.</p>
+               <p n="3">3. He is grievouſly out in his <hi>Chronological Hiſtory,</hi> for <hi>Presbytery</hi> was not in the Aſcen<g ref="char:EOLhyphen"/>dant in
+<hi>England</hi> in 1638, as he ſuggeſts. Conformity was then at the higheſt, and urged by <hi>Arch-Biſhop Lau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and his <hi>Faction</hi> with great ſeverity.</p>
+               <p>Many were Suſpended, Deprived and Excommunicated for not reading the <hi>Book of Sports,</hi> to countenance the Prophanation of the Lord's Day in 1637. I find in a <hi>Certificate</hi> of the Biſhop of
+<hi>Norwick,</hi> towards the latter end of the Year 37, an Account of about Thirty Miniſters Excommunicated and Suſpended<note n="*" place="bottom">
+                     <hi>Ruſhw. Collect.</hi> Part II. p. 462.</note>, by which we may gueſs what was done in other Dioceſes.</p>
+               <p>In 1638 many more were ſuſpended for not Reading the
+<hi>Common Prayers</hi> in their <hi>Hoods</hi> and <hi>Surplices,</hi> as Dr.
+<hi>Heylin</hi> affirms,<note n="†" place="bottom">
+                     <hi>Life of</hi> Land, p 365.</note>.
+<q rend="margQuotes">This and other things (ſaith he) kept off the greateſt part of the Rigid <hi>Calvinists</hi> from exerciſing their Gifts, as formerly, in great Market-Towns.</q>
+               </p>
+               <p>The ſeverities of that time were ſuch, that many were driven to Foreign Countries for ſhelter; ſome to <hi>Holland,</hi> others to
+<hi>New-England,</hi> whither the Arch-Biſhop de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn'd to purſue 'em, and to <hi>Dragoon</hi> 'em into the <hi>Engliſh</hi> Conformity. Take the Hiſtory of Dr.
+<hi>Heylin</hi>'s own words,
+<q rend="margQuotes">It was once under Conſulation of the Chief Phyſicians, to ſend a Biſhop over to them, and <hi>back him with ſome Forces to comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l,</hi> if he were not other<g ref="char:EOLhyphen"/>wiſe able to perſwade obedience; but the troubles of <hi>Scotland</hi> ſtrangled this Deſign.<note n="§" place="bottom">
+                        <hi>Life of</hi> Laud, p. 369.</note>
+                  </q>
+               </p>
+               <p>The Preſbyterians in 38 were deprived, not only of the
+<hi>Pulpit,</hi> but of the <hi>Preſs</hi> alſo, and therefore it is a very unlikely Story that they ſhould <hi>Corrupt the Word of God</hi> in that Year.</p>
+               <pb n="8" facs="tcp:97325:9"/>
+               <p>Hear the Hiſtorian:
+<q rend="margQuotes">Nor was the Arch-Biſhop leſs intent upon all Advantages for keeping down the <hi>Genevian Party,</hi> and hindring them from <hi>Printing</hi> and <hi>Publiſhing</hi> any thing which might diſturb the Church's Peace, or <hi>Corrupt her Doctrine.</hi> To this End he procur'd a Decree to be Paſs'd in the <hi>Star-Chamber,</hi> on <hi>July</hi>
+1. 1637. to Regulate <hi>Printing,</hi> and prevent all Abuſes of it, to the diſturbance of the Church.</q>
+               </p>
+               <p>The Reader may ſee the <hi>Decree</hi> at large in
+<hi>Ruſhworth</hi> and <hi>Heylin.</hi> The latter has this Remark on it.<note n="(a)" place="bottom">
+                     <hi>Heyl. Ibid.</hi> P. 362, 363.</note>
+                  <q rend="margQuotes">By means of this Decree the Arch-Biſhop had ſo provided both at home and abroad, that neither the Patience of the State ſhould be Exerciſed with con<g ref="char:EOLhyphen"/>tinual Libels, nor the Church troubled by unwarrantable and outlandiſh Doctrines.</q>
+               </p>
+               <p>In purſuance of this <hi>Decree</hi> againſt
+<hi>Printing</hi> or <hi>Selling <g ref="char:V">Ʋ</g>nlicens'd Books,</hi> he hindred the Importation of the <hi>Geneva</hi> Bibles with Notes from <hi>Holland,</hi> where ſome of them had been Seiz'd by the care of <hi>Boſwel,</hi> the Reſident at the <hi>Hague.</hi> In the beginning of 38 he re<g ref="char:EOLhyphen"/>ceived advertiſement of a new Impreſſion of thoſe Bibles in <hi>Holland,</hi> deſign'd for <hi>England,</hi> if the terror of this Decree did not ſtop their coming<note n="(b)" place="bottom">
+                     <hi>Laud's Life,</hi> P.
+364.</note>.</p>
+               <p>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this it appears what little Credit is to be given to the Rector's <hi>Secret History</hi> of the Preſbyterians corrupting the Word of God in 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, when he ſo notoriouſly contradicts the <hi>Publick Hiſtory</hi> of that Time. He might as well have ſaid, That <hi>Epiſcopacy was in the Aſ<g ref="char:EOLhyphen"/>cendant</hi> in 1648, as that Preſbytery was ſo in 1638.</p>
+               <p>
+                  <hi>But</hi> (ſaith
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e) <hi>all things were in Preparation, and tended to the Subverſion of Epiſcopacy.</hi>
+               </p>
+               <p>The Preparations were ſo <hi>Secret,</hi> that n e but the
+<hi>Rector</hi> can make a Diſcovery o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, which he hath not yet done, and ſo we leave 'em among the
+<hi>Chimera's</hi> of his own Invention.</p>
+               <p>I know nothing in appearance that tended then to the Subverſion of Epiſcopacy in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> except <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ines, Impr<gap reason="illegible" resp="#PDCC" extent="8 letters">
+                        <desc>〈8 letters〉</desc>
+                     </gap>s, Ba<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>res,</hi> and other Severities againſt Conſcientiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Men (under the odious Name of
+<hi>He<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ns</hi>) might have ſuch a tendency, by moving the Compaſſions of the People, who are apt
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take part with the Perſecuted.</p>
+               <p>But <hi>Scotland,</hi> ſaith the Rector, <hi>had already made a Conſpiracy, and bound themſelves under a Curſe to Extirpate Epiſcopacy.</hi>
+               </p>
+               <p>Did the Scotch-Conſpiracy depend upon altering of <hi>we</hi> into <hi>ye,</hi> in <hi>Acts</hi> 6.3. in the <hi>Cambridge</hi>-Edition? Or did the Alteration depend on the Scotch-Conſpiracy? Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there another <hi>Conſpiracy</hi> between the
+<hi>Scotch-Conſpirators</hi> and the <hi>Cambridge-Printer?</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rector, Charitable Man! has the Faith to believe it, but he is not ſo happy as to be abl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to prove it.</p>
+               <p>How far the <hi>Scotch-Govenanters bound themſelves under a Curſe to extirpate Epiſcopacy,</hi> pretend not to determine.</p>
+               <p>This is plain, that the Covenant which they ſubſcribed in
+1638, was the ſame <hi>in matter of Religion,</hi> with the Covenant which was ſign'd long before by <hi>King James</hi> (the <hi>Firſt</hi>
+                  <note n="(b)" place="bottom">
+                     <hi>Laud's Life,</hi> P. 364.</note> 
+                  <hi>England</hi>) and the whole Kingdom of <hi>Scotland.</hi> This is expreſly affirmed by K.
+<hi>Charles</hi>] in his <hi>Proclamation against the Seditious Pradices of ſome in</hi> Scotland, Dated at <hi>White-Hal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Feb.</hi> 27, In theſe Words:</p>
+               <p>
+                  <q rend="margQuotes">That Covenant in our Dear Father's time, was condeſcended unto by him, and ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Subject (at the humble Petition of the
+<hi>Geteral Aſſembly</hi> it ſelf.) permitted by him to Sign it: We ſay it again. That our Covenant was Rejected by them, becauſe Com<g ref="char:EOLunhyphen"/>manded by us; and this is manifeſt, becauſe <hi>for Matters of Religion ours agreed in a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> things with their own Covenant</hi>
+                     <note n="(c)" place="bottom">
+                        <hi>Ruſh. Collect.</hi> Par. 2. p.
+831.</note>.</q>
+               </p>
+               <p>I Juſtifie not the Irregularities of that Time, but they were occaſioned by Arch-Biſhop <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ua's Innovations,</hi> contrary to Arch-Biſhop
+<hi>Spotſwood</hi>'s Advice.</p>
+               <p>King <hi>Charles</hi> I. in the Year 38. Iſſued out a Proclamation, requiring all Perſons to Subſcribe the <hi>Old Covenant,</hi> in hopes of giving Satisfaction to the Diſcontented Party by that Condeſcention, and by another <hi>Declaration</hi> of his Pleaſure anent Anulling the <hi>Service <pb n="9" facs="tcp:97325:9"/>Book, Book of Canons,</hi> and
+<hi>High Commiſſion,</hi> diſcharging the preſſing of the Practice of the <hi>Five Articles</hi> of <hi>Perth</hi> But the Peoples Jealouſies of the unlimited Power of their Biſhops were grown then ſo high, that nothing would ſatisfie 'em but the Abolition of that <hi>New Order,</hi> which had been impoſed upon 'em (as they conceiv'd) contrary to their <hi>Old Nati<g ref="char:EOLhyphen"/>onal Covenant,</hi> by which they Judg'd themſelves obliged to maintain the
+<hi>Presbyterian Go<g ref="char:EOLhyphen"/>vernment.</hi>
+               </p>
+               <p>However, the <hi>Scotch-Biſhops,</hi> after ſome heſitation, did upon <hi>Octob.</hi> 5. 1638. Sign the <hi>Old Confeſſion of Faith</hi> (which had been Subſcribed at firſt by K. <hi>James,</hi> and his Houſhold, in the Year 1580. and afterwards by Perſons of all Ranks, in the Year 1581. by Ordi<g ref="char:EOLhyphen"/>nance of the Lords of the <hi>Secret Council,</hi> and Acts of the <hi>General Aſſembly.</hi> And again was Subſcrib'd by all ſorts of Perſons in the Year 1590. with a <hi>General Band</hi> annex'd, for Maintenance of the true Religion, and the King<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Perſon)</p>
+               <p>But being ſenſible that this <hi>Confeſſion</hi> favour'd <hi>Presbytery,</hi> they Sign'd it with theſe Re<g ref="char:EOLhyphen"/>ſtrictions,
+<hi>viz.</hi>
+                  <q rend="margQuotes">That they did not hereby Abjure or Condemn the <hi>Epiſcopal Government,</hi> and the <hi>Five Articles</hi> of
+<hi>Perth;</hi> and that by adhering to the Diſcipline of the Reformed Kirk of <hi>Scotl.</hi> they mean not any <hi>Immutability</hi> of that
+<hi>Presbyterial Government</hi> which was <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 1581<note n="(a)" place="bottom">
+                        <hi>Ruſh. Ibid.</hi> P. 706.</note>.</q>
+               </p>
+               <p>By this it appears, That the <hi>Presbyterian</hi> was the
+<hi>Ancient Government</hi> of the Kirk of <hi>Scotland,</hi> to which they were obliged by an <hi>Ancient Covernant,</hi> long before 38, and that
+<hi>Epiſcopacy</hi> was an <hi>Innovation</hi> upon their <hi>First Conſtitution.</hi>
+               </p>
+               <p>I mention theſe things by the by, to vindicate the
+<hi>preſent Establiſhment</hi> of the <hi>Church</hi> of <hi>Scotland,</hi> as not only agreeable to the <hi>Scotch-Inclination,</hi> but to the
+<hi>Ancient Scotch-Confeſſion;</hi> and therefore agreeable to their
+<hi>Inclinations,</hi> becauſe agreeable to their
+<hi>Confeſſion.</hi>
+               </p>
+               <p>The <hi>Rector</hi> baſely Reflects upon the Act of
+<hi>Settling Presbytery</hi> in <hi>Scotland</hi> (though touch'd by the
+<hi>Royal Scepter</hi>) becauſe it makes Presbytery <hi>moſt agreeable to the Inclination of the Scotch Nation, which is juſt ſuch another Reaſon</hi> (ſaith he) <hi>as an Adulterer alſo might give for his Wantonneſs</hi>
+                  <note n="(b)" place="bottom">P. 25.</note>.</p>
+               <p>He might more truly have ſaid, which is juſt ſuch another Reaſon as an <hi>honeſt Man</hi> might give for enjoying the <hi>Wife of his Youth,</hi> which had been violently detain'd from him, as <hi>Michal</hi> was from <hi>David.</hi>
+               </p>
+               <p>The Words which he reflects on are His Majeſty's own Words, in his Letter of In<g ref="char:EOLhyphen"/>ſtructions to his Commiſſioner in <hi>Scotland;</hi> though the Rector would Reproach the Preſ<g ref="char:EOLhyphen"/>byterians, he ſhould have ſpoken with more reſpect to the King, and not ſo unhandſomly Reflect on His Majeſty's Words, to whom he owes a greater deference.</p>
+               <p>The <hi>Act</hi> affirms the <hi>Presbyterian Church Government to be agreeable to the Word of God, and moſt conducive to the Advancement of true Piety and Godlineſs.</hi> But the <hi>Rector</hi> wiſely over<g ref="char:EOLhyphen"/>looks theſe Words, which would have ſpoil'd his wanton Compariſon.</p>
+               <p>The ſame Statute Eſtabliſheth the <hi>Confeſſion of Faith,</hi> containing the Sum and Subſtance of the Doctrine of the
+<hi>Reformed Churches,</hi> and revives the <hi>Presbyterian Church Government and Diſcipline,</hi> which had been Ratified and Eſtabliſhed by the 114 Act, <hi>Ja.</hi> 6. Parl. 12. <hi>Anno.</hi> 1592. and thereafter receiv'd by the <hi>general Conſent</hi> of the Scotch Nation<note n="(c)" place="bottom">Hist. of the late Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>col. in <hi>Scotl. P. 252, 253.</hi>
+                  </note>. It the Scotch Inclination be agreeable <hi>to the Word of God,</hi> their ancient
+<hi>Confeſſion of Faith,</hi> and the old <hi>Laws of the Kingdom,</hi> I hope it's a little more juſtifiable than the <hi>wanton Inclinations</hi> of an <hi>Adulterer.</hi>
+               </p>
+               <p>I crave the Reader's Pardon for this <hi>Digreſſion,</hi> occaſion'd by the <hi>Rector's Impertinent Re<g ref="char:EOLhyphen"/>flection</hi> upon the
+<hi>Church-Government</hi> of <hi>Scotland.</hi>
+               </p>
+               <p>I have done with his <hi>first Reaſon,</hi> when I have noted the laſt Words of it — <hi>And</hi> En<g ref="char:EOLhyphen"/>gland, <hi>even a great part of the <g ref="char:V">Ʋ</g>niverſities, were running to the ſame exceſs of Riot.</hi> I preſume he means they were not well affected to Epiſcopacy.</p>
+               <p>Preſbytery is <hi>exceſs of Riot</hi> with this Gentleman. I remember the time when <hi>not running into exceſs of Riot</hi> was Crime enough to bring a Man under Suſpicion of being a <hi>Presbyteri<g ref="char:EOLhyphen"/>an.</hi> Whether the <hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> have improved in <hi>Morals</hi> ſince they were rid of <hi>Presbytery,</hi> I <pb n="10" facs="tcp:97325:10" rendition="simple:additions"/>will not preſume to Determine, but the <hi>Corruption of Manners</hi> which too many bring with them thence, is no great <hi>Demonstration</hi> of it.</p>
+               <p>But it will not be amiſs to take a view of the ſtate of
+<hi>Cambridge</hi> in 1638, when and where the firſt Corruption happened. It was far from being <hi>Presbyterian</hi> or <hi>Puritan.</hi>
+               </p>
+               <p>Six of the Heads of Colledges were fully in the Intereſts of Archbiſhop <hi>Laud, viz.</hi>
+               </p>
+               <p>Dr. <hi>Conſins,</hi> Mr. of <hi>Peterhouſe;</hi> Dr.
+<hi>Laney,</hi> Mr. of <hi>Pembroke-Hall;</hi> Dr. <hi>Martin,</hi> Mr. of
+<hi>Queens</hi> Colledge; Dr. <hi>Paſch,</hi> Mr. of <hi>Clare-Hall;</hi> Dr.
+<hi>Beal,</hi> Mr. of St. <hi>John</hi>'s; Dr. <hi>Stern,</hi> Mr. of
+<hi>Jeſus.</hi>
+               </p>
+               <p>Theſe were all High Men for Biſhop <hi>Laud,</hi> and were afterwards put out by the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The Six following were more moderate, but fully for the King, and Church of <hi>England, viz.</hi>
+               </p>
+               <p>Dr. <hi>Collins, Regius</hi> Profeſſor, Provoſt of King's Colledge; Dr. <hi>Samuel Ward,</hi> Profeſſor of Divinity, and Mr. of
+<hi>Sidney</hi> Colledge; Dr. <hi>Holdſworth,</hi> Mr. of <hi>Emanuel;</hi> Dr. <hi>Brownrig,</hi> Mr. of <hi>Catharine-Hall;</hi> Dr. <hi>Comber,</hi> Mr. of <hi>Trinity;</hi> Dr. <hi>Smith,</hi> Mr. of <hi>Mag<g ref="char:EOLhyphen"/>dalen.</hi> All theſe were put out by the Parliament, only Dr. <hi>Smith</hi> died about the begin<g ref="char:EOLhyphen"/>ning of 1643.</p>
+               <p>The Three following were not put out by the Parliament, but were far from being look'd upon as <hi>Puritans</hi> or <hi>Presbyterians, viz.</hi>
+               </p>
+               <p>Dr. <hi>Bainbrig,</hi> Mr. of <hi>Chriſt</hi>'s Colledge; Dr.
+<hi>Love,</hi> Mr. of <hi>Bennet</hi> Colledge; Dr. <hi>Eden,</hi> a Civilian, Mr. of <hi>Trinity-Hall.</hi>
+               </p>
+               <p>Dr. <hi>Badgecroft,</hi> Mr. of <hi>Caius</hi> Colledge, was a Perſon of little Note, but whether he Died in his Place, or was put out, I cannot learn.</p>
+               <p>This State of <hi>Cambridge</hi> was communicated to me by the Learned and Judicious Mr. <hi>Francis Tallents,</hi> who was a Student then in
+38.</p>
+               <p>By this it appears what a ridiculous Story it is, that the
+<hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> were running into the ſame Exceſs of Riot with
+<hi>Scotland</hi> in 1638. But I proceed to his 2d Argument, <hi>viz.</hi>
+               </p>
+               <p>Argument II.</p>
+               <p>
+                  <q rend="margQuotes">The Corruption in appearance favours the <hi>Diſſenters</hi> and their Deſign againſt <hi>Epiſcopacy.</hi> If then any, they may be ſuſpected for being willing to have it at leaſt continued and propagated.</q>
+               </p>
+               <p>I Anſwer:</p>
+               <p n="1">1. He durſt not ſay, the <hi>Corruption favours the</hi> Diſſenters, for he knows the contrary; but he ſlily ſays, it does <hi>in appearance</hi> favour 'em. This <hi>appearance</hi> is only to himſelf, for I believe no <hi>Diſſenter</hi> ever thought of it.</p>
+               <p n="2">2. I know no Principle of any ſober
+<hi>Diſſenters</hi> that is favoured by this Corruption.</p>
+               <p>It is the profeſt Principle of the <hi>Presbyterians,</hi>
+                  <q rend="margQuotes">That no man ought to take upon him the Office of a Miniſter of the Goſpel, until he be lawfully called, and Ordained there<g ref="char:EOLhyphen"/>unto by the Preſbytery. See the Directory for
+<hi>Ordination.</hi>
+                  </q>
+               </p>
+               <p>Both <hi>Presbyterians</hi> and <hi>Congregational</hi>-Men, whom he <hi>disjunctively</hi> accuſeth, have de<g ref="char:EOLhyphen"/>clared their United Judgment about the Miniſtry in the <hi>Heads of their Agreement</hi> (Print<g ref="char:EOLhyphen"/>ed at
+<hi>London</hi> 1691) in which they Unanimouſly declare for the
+<hi>Election</hi> and <hi>Ordination</hi> of ſuch as undertake the Miniſterial Office, the former they aſcribe to the <hi>People;</hi> the latter to the <hi>Elders</hi> or <hi>Paſtors.</hi> Chap. 2. <hi>Of the Miniſtry.</hi>
+               </p>
+               <pb n="11" facs="tcp:97325:10"/>
+               <p>This then is the pernicious Principle which he fancies the
+<hi>Diſſenters</hi> would ſupport by corrupting <hi>Act.</hi> 6.3.
+<hi>viz.</hi> that <hi>Ordinarily the People have power to chooſe their own Mi<g ref="char:EOLhyphen"/>niſters.</hi> This I confeſs is aſſerted by the <hi>
+                     <g ref="char:V">Ʋ</g>nited Brethren.</hi>
+               </p>
+               <p>And cou'd they be under any Temptation to corrupt a Text of Scripture to aſſert a Principle that may be juſtified by <hi>expreſs Scripture,</hi> and is aſſerted in this very place with<g ref="char:EOLhyphen"/>out any corrupt Reading? <hi>Act.</hi> 6.3. <hi>Wherefore, Brethren, look ye out among you Seven Men of honeſt report, full of the Holy Ghoſt and Wiſdom, whom we may appoint over this buſineſs.</hi>
+               </p>
+               <p>Here the People chooſe the Deacons, the Apoſtles by Impoſition of Hands and Prayer, Ordain or Appoint the Perſons ſo choſen.</p>
+               <p>The Rector himſelf, in another Mood, allows this p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer to the People, or Multitude of Believers. For thus he ſpeaks,
+<q rend="margQuotes">The Apoſtles commanded the People to chooſe ſeven men, <hi>Act.</hi> 6.3.</q> So St. <hi>Peter</hi> exhorted them to chooſe one<note n="*" place="margin">
+                     <hi>Tent. Novum,</hi> p. 4.</note> Again,
+<q rend="margQuotes">The choice of the Perſons to be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſented unto the Apoſtle; was made by the People.<note n="†" place="margin">p. 3.</note>
+                  </q>
+               </p>
+               <p>Whether the Rector of <hi>Bury</hi> were acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding to this Apoſtolical practice, choſen by the People, he himſelf beſt knows, and the good People of <hi>Bury</hi> may do well to conſider.</p>
+               <p>Behold here our Accuſer aſſerts the very Principle, in favour of which he pretends the <hi>Presbyterians</hi> or <hi>Corgr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gational</hi> Men (for he knows not which) have corrupted the Word of God.</p>
+               <p>Now ſuppoſe a peeviſh <hi>Recriminator</hi> ſhould retort the Charge upon him, and ſay, there is ſhrewd ſuſpicion that the Rector of <hi>Bury hath contributed to the corrupting of</hi> Act. 6.3. <hi>at leaſt to the continuance and encreaſe of it,</hi>
+                  <note n="§" place="margin">Serm. p. 23.</note>; becauſe it is done in favour of the
+<hi>Popular Prin<g ref="char:EOLhyphen"/>ciple</hi> he maintains; what can the Rector ſay for himſelf? He ſtands condemned out of his own Mouth. If his Argument be good againſt the <hi>Diſſenters,</hi> it's good alſo againſt himſelf. For he allows the People as much Power in making their Miniſters as the
+<hi>Diſſenters</hi> do. Either then let him honeſtly acquit his Brethren, or condemn himſelf. They are conſcious to their own innocency; let him, who is acquainted with the <hi>ſecret practices</hi> of the Preſs, come off as well as he can.</p>
+               <p n="3">3. The altering of <hi>we</hi> into <hi>ye</hi> in
+<hi>Act.</hi> 6.3. cannot be imputed to the <hi>Diſſenters,</hi> or to any Deſign of theirs to <hi>aſſert the Peoples power of ſetting up their own Miniſters,</hi> p. 25. be<g ref="char:EOLhyphen"/>cauſe the Seven Deacons in <hi>Act.</hi> 6,
+3. were no Miniſters of the Word and Sacrament, in the Judgment of the
+<hi>Diſſenters.</hi> They have all along pleaded. That the Deacons in
+<hi>Act.</hi> 6. were <hi>Miniſters of Tables,</hi> and not of the
+<hi>Word.</hi> Is it likely they ſhould corrupt a Text to aſſert the
+<hi>Peoples Power in making Goſpel Miniſters,</hi> which in their Opinion ſpeaks not of thoſe that Miniſter in <hi>Goſpel Myſteries?</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">It belongs not to the Office of Deacons (ſaith the <hi>Westminster</hi> Aſſembly) to Preach the Word or adminiſter the Sacraments, but to take ſpecial care in diſtributing to the neceſſities of the Poor.</q> See their Advice to the Parliament concerning Church-Go<g ref="char:EOLhyphen"/>vernment, in the <hi>Directory.</hi>
+               </p>
+               <p>
+                  <hi>Argument</hi> III.</p>
+               <p>
+                  <q rend="margQuotes">On the contrary it cannot (ſaith our Accuſer) with any colour of reaſon be imagined that the Epiſcopal Party deſign'd to corrupt this place, <hi>p.</hi> 24.</q>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>This proves nothing againſt the <hi>Diſſenters,</hi> nor do they charge the <hi>Epiſcopal Party</hi> with any deſign of corrupt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng it, tho the Preſs was in their hands, and ſtrictly guarded againſt the <hi>Puritans,</hi> when it was firſt done, if it was in the Year 1638, as he ſuppoſes.</p>
+               <pb n="12" facs="tcp:97325:11" rendition="simple:additions"/>
+               <p>
+                  <q rend="margQuotes">Nor will any one of ſence (adds he) believe that the <hi>Epiſcopal</hi> Party, were willing to have that thruſt out of the Scripture, upon which their Church Government ſeems to be built; or to ſubſtitute in its room what in appea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance, overthrows their Polity,</q>
+                  <bibl>
+                     <hi>ibid.</hi>
+                  </bibl>
+               </p>
+               <p>I never underſtood before, that the Epiſcopal Government was built on this Act of the Apoſtles in ordaining Deacons. Doubtleſs the Epiſcopal Party will reckon themſelves highly obliged to this Maſter-Build<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, who hath ſupported the Foundations of their Go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rnment by ſo ſtrong an Argument as is here propoſed, <hi>viz. The Ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtles Ordained Dea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s to ſe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ables, therefore the Church ought to be govern'd by Biſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ops.</hi> But he ſpoils all
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing, <hi>That th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir Church Government</hi> ſeems <hi>to be built on this Scripture,</hi> which, in
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lain <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſh,</hi> is as much as if he had ſaid,
+<hi>it is not really built upon it.</hi> This overthrow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſon, <hi>That it was their intereſt not to corrupt it;</hi> ſo that their Cauſe not being <hi>really ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>orted</hi> by this Text, they might be the Authors of the Corruption, according to the R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s way of arguing.</p>
+               <p>Thus the <hi>Epiſcopal</hi> Party are more obliged to the Charity of the <hi>Diſſenters</hi> in acquit<g ref="char:EOLhyphen"/>ting 'em from a deſigned Corruption of this place, than to the <hi>ſtrength</hi> of the Rector's Argument.</p>
+               <p>Argument IV.</p>
+               <p>
+                  <q rend="margQuotes">That Party ought in all Reaſon to be ſuſpected of Foul-Play herein, who under colour of this new Text of Scripture, aſſert and ſupport the new Popular Government of the Church, as ſome of the <hi>Presbyterians</hi> do at this day.</q>
+               </p>
+               <p>For Pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f of this he tells us a
+<q rend="margQuotes">Memorable Story (as he calls it) of a
+<hi>Cameronian</hi> (one of the moſt rigid Sects of the <hi>Scotch</hi> Preſbyterians) who Preaching <hi>ſome Years ſince,</hi> concerning the Peoples Power of ſetting up their own Teachers, urged this corrupt Reading for Proof.</q>
+               </p>
+               <p>Anſwer.</p>
+               <p n="1">1. It is a pretty way of proving that the
+<hi>Engliſh</hi> Preſbyterians, aſſert the Popular Go<g ref="char:EOLhyphen"/>vernment of the Church from this Text, becauſe a <hi>Scotch Cameronian</hi> has done ſo
+<hi>ſome Years ſince.</hi>
+               </p>
+               <p n="2">2. I expected he would have inſtanced in ſome
+<hi>Engliſh</hi> Preſbyterians that had aſſert<g ref="char:EOLhyphen"/>ed the <hi>new Popular Government,</hi> as he calls it, from this falſe reading, which he chargeth on the <hi>Diſſenters;</hi> but fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Proof againſt the <hi>Engliſh</hi> Diſſenters, he ſends us to the <hi>Scotch Presbyterians,</hi> and to the moſt Rigid amongſt them. Does our <hi>Accuſer</hi> here manage his Evidence with the leaſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhew of Common Honeſty? He puts in a Charge againſt the Body of <hi>Engliſh</hi> Diſſenters, and brings in for Guilty, a ſingle <hi>Scotch Cameronian.</hi>
+               </p>
+               <p n="3">3. The <hi>Scotch</hi> Evidence is by Hear-ſay, without ſo much as naming the <hi>Perſon, Time</hi> or <hi>Place,</hi> nor producing any Vouchers for the Proof of it. He promiſed us a good
+<hi>cir<g ref="char:EOLhyphen"/>cumſtantial proof,</hi> p. 23. and he gives us one diveſted of all its <hi>circu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtances.</hi>
+               </p>
+               <p>He picks up a ſpurious Story, p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rhaps in the next <hi>Coffee-Houſe</hi> or
+<hi>Ale-Houſe,</hi> that car<g ref="char:EOLhyphen"/>ries not the leaſt Evidence of Truth with it, and this he legitimates as far as his Word will go, and recommends from the Pulpit as a <hi>ſacred Oracle</hi> of God.</p>
+               <p>I will not lay the <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at</hi> at the <hi>Rector</hi>'s Door, but ſince he is an Undertaker for it, he ought to produce the <hi>true Father,</hi> leſt he tempt ſuch as know him not, to ſuſpect he is the Man.</p>
+               <p>I have more Charity for him (as little as he hath for us) than to impute the <hi>Origina<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of the Fable unto him; but he cannot be excuſed from
+<hi>taking up a reproach againſt hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Neighbour,</hi> which is inconſiſtent with the Character of a Citizen of <hi>Zion, Pſal.</hi> 15.3.</p>
+               <p n="4">4. It is ſcarce Credible, That a <hi>Cameronian</hi> Preſbyterian ſhould aſſert a Doctrine direct<g ref="char:EOLhyphen"/>ly contrary to the Preſbyterian Principles. It's well known none is admitted into the Miniſtry in <hi>Scotland,</hi> without the <hi>laying on of the hands of the</hi> Preſbytery.</p>
+               <pb n="13" facs="tcp:97325:11"/>
+               <p n="5">5. Suppoſe ſome ignorant <hi>Cameronian</hi> had been abuſed by that <hi>corrupt reading</hi> (which we have no reaſon to believe on the Rector's word) and if he had abuſed others by a wrong
+<hi>Quotation,</hi> muſt the Error of one Man be charg'd upon the whole Church of <hi>Scotland?</hi> And muſt the Error of one <hi>Scotch-m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> be charg'd upon all the
+<hi>Engliſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians? This is ſuch a piece of <hi>Justice,</hi> as none will defend, but a <hi>Hama<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> who ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to be reveng'd of all the <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs,</hi> becauſe one <hi>N<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> had offended.</p>
+               <p>Thus I have Examined his Four <hi>Circumſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tial Pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fs,</hi> which app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar to be as <hi>ſilly</hi> as they are
+<hi>malicious.</hi>
+               </p>
+               <p>He ſuggeſts one thing more in a Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ginal Note, which I had almoſt over-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooked.</p>
+               <p>
+                  <q rend="margQuotes">The Corruption (ſaith he) crept in firſt in the year 1638, in a Bible Printed at <hi>Car<g ref="char:EOLhyphen"/>bridge</hi> by <hi>Tho. Buck</hi> and <hi>Reger Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>id,</hi> Printers to the Univerſity; the latter of which was indeed the Manager of the Preſs, and in the Intereſt of that
+<hi>Presbyterian</hi> Party.</q>
+               </p>
+               <p n="1">1. Whether <hi>R. Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iel</hi> was in the Intereſt of the Preſbyterian Party, I know not; but I have no cauſe to believe it, becauſe he affirms it. He hath made his Word too cheap already to be taken for an Oracle.</p>
+               <p>A Gentleman<note n="*" place="margin">
+                     <hi>Mr.</hi> F. Tallents
+<hi>of</hi> Salop.</note> that was in <hi>Cambrilge</hi> in 36, and continued
+<hi>Fellow of a Colledge</hi> till
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſſures me he knew
+<hi>Tho. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uck</hi> very w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l, and gives this Character of him, that he wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an Eminent, Grave Church-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f-<hi>England</hi> Man, and one of the Ornaments of it, and the Principal Manager of the Preſs. The ſame Gentleman tells me, he knew
+<hi>Roger Daniel</hi> alſo, but he was never Reputed to be a
+<hi>Puritan,</hi> nor is it likely, that Mr. <hi>Buck</hi> would bring in a perſon of the <hi>Puritan</hi> Principles.</p>
+               <p n="2">2. But ſuppoſe he were a <hi>Presbyte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ian,</hi> (which is not very likely, conſidering what a wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chfull Eye Arch-Biſhop <hi>Laud</hi> had upon the Printing-Preſſes at that time) may not a Man be a <hi>Presbyterian</hi> without being a corrupter of the Word of God? We have proved already, that the Corruption of <hi>Act.</hi> 6.3. favours the <hi>Presbyterians,</hi> no more than it doth the <hi>Epiſcopal Party.</hi>
+               </p>
+               <p n="3">3. He acquits <hi>R. Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iel</hi> by a kind of Self-Contradiction from a
+<hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſign'd Corruption</hi> of the place, for he himſelf acknowl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dges the firſt Corruption to be an Overſight, a meer Error of the Preſs, and an accidental Slip, <hi>p</hi> 27.</p>
+               <p n="4">4. I find a <hi>Cambri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge</hi> Edition of the Bible in Twelves, in the Year 1648. by <hi>R. Daniel,</hi> which hath <hi>we,</hi> and not <hi>ye,</hi> in <hi>Acts</hi> 6.3. <hi>Whom we may appoint.</hi> This is a clear Evidence, That <hi>Daniel</hi>'s Edition in 38, was not deſignedly Corrupted, for then he would have repeated it in a time when the Preſs was in the Power of the Anti-Epiſcopal-Party.</p>
+               <p>It's true, the Error has been repeated ſince in ſeveral Impreſſions of the Engliſh Bible, but without any Influence or Connivance of the Diſſenters, as he unworthily Suggeſts.</p>
+               <p>An Error in one Impreſſion is ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly propagated, becauſe the Frames of the Bible are often kept intire, and n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t broken by Half Sheets, as in Printing other Books, and ſo the ſame Set of Frames ſerves for a Second and Third Impreſſion, and ſo forward, until the Letters decay and grow uſeleſs.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="14" facs="tcp:97325:12"/>
+               <head>
+                  <hi>CHAP. III.</hi> More Conſiderations to ſhew the Falſity of the <hi>Rector</hi>'s Charge.</head>
+               <p n="1">1. NO Proteſtant Diſſenters have ever Vindicated that Corrupt Reading, or urged it in favour of a popular Government of the Church, in any of their Writings againſt the Biſhops and Ceremonies.</p>
+               <p>Let him Examine all that has been written ſince 1638, to 1696, and Produce, if he can, any one Argument Supported by this Falſe Reading. Had the Diſſenters deſignedly Cor<g ref="char:EOLhyphen"/>rupted this place to favour their Deſign againſt Epiſcopacy, the Corruption would have appear'd one time or other in ſome of their Polemic Diſſertations.</p>
+               <p n="2">2. The Diſſenters have Written ſeveral Commentaries and Annotations on the Holy Bible, perhaps more than the Epiſcopal Party, and many of them have written on <hi>Acts</hi> 6.3. and not one of them have attempted to Confirm the Corrupt Reading of it. Mr. <hi>Baxter's</hi> Second Edition reads, <hi>Whom we may appoint:</hi> So do the Continuators of Mr.
+<hi>Pool;</hi> ſo doth <hi>Du-Veil</hi> on the <hi>Acts,</hi> though he was an <hi>Anabaptiſt,</hi> as I am inform'd. Mr. <hi>Clark,</hi> in his Quarto Edition of the New Teſtament hath <hi>ye,</hi> but by a miſtake of the Printer, for his Marginal Notes are not corrupt, and the Error is rectified in his Fol. Edit. Printed at <hi>Lond.</hi> 1690. That latter Edition hath
+<hi>we.</hi>
+               </p>
+               <p n="3">3. Had the Corruption been deſign'd in favour of the Diſſenters, it would have been promoted when they were uppermoſt, and had the power of the Preſs.</p>
+               <p>I have taken a little Pains to examine the Editions of moſt Years between 1640, and 1660, when the Anti-Epiſcopal Party were in the Aſcendant, and I find 'em generally right in <hi>Acts</hi> 6.3.</p>
+               <p>For more Satisfaction to the Inquiſitive Reader, I will exhibit the Editions of each Year, which are as followeth:</p>
+               <p>The Impreſſion of the Bible in</p>
+               <list>
+                  <item>1638 <hi>London,</hi> by <hi>Robert Barker,</hi> Octavo, hath <hi>we,</hi> (and not <hi>ye</hi>) in <hi>Acts</hi> 6.3.</item>
+                  <item>1639 <hi>London,</hi> by <hi>Barker</hi> hath
+<hi>we.</hi>
+                  </item>
+                  <item>1639 <hi>London,</hi> by <hi>Barker</hi> and <hi>Bill,</hi> we.</item>
+                  <item>1639 <hi>Cambr.</hi> by <hi>Th. Buck</hi> and <hi>Roger Daniel,</hi> we.</item>
+                  <item>1640 <hi>Lond.</hi> by <hi>R. Barker,</hi> Twelves,
+<hi>we.</hi>
+                  </item>
+                  <item>1642 <hi>Amſterdam,</hi> with <hi>Beza</hi> and
+<hi>Jun.</hi> Notes, Folio, <hi>we.</hi> This Edition is much Miſ-Printed.</item>
+                  <item>1642 <hi>Edinburgh,</hi> by <hi>Eva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Tyler,</hi> 24. we.</item>
+                  <item>1642 <hi>Lond.</hi> by <hi>Barker,</hi> Octavo,
+<hi>we.</hi>
+                  </item>
+                  <item>1643 <hi>Cambr.</hi> by the Printers to the Univer.
+<hi>we.</hi>
+                  </item>
+                  <item>1643 <hi>Amſterd.</hi> Fol. with the <hi>Geneva</hi> Notes <hi>we.</hi>
+                  </item>
+                  <item>1644 <hi>Amſterd.</hi> Twelves, <hi>we.</hi>
+                  </item>
+                  <item>1646 <hi>Amſterd.</hi> by <hi>Bentley,</hi> we.</item>
+                  <item>1646 <hi>Lond.</hi> by the Aſſigns of <hi>J. Bill,</hi> and <hi>C. Barker,</hi> we.</item>
+                  <item>1646 <hi>Lond.</hi> by the Comp. of Stationers,
+<hi>we.</hi>
+                  </item>
+                  <item>1647 <hi>Lond.</hi> by <hi>Barker</hi> and the Aſſigns of <hi>Bill,</hi> we.</item>
+                  <item>1647 <hi>Lond.</hi> by the Company of Stationers,
+<hi>we.</hi>
+                  </item>
+                  <item>1648 <hi>Lond.</hi> by <hi>Will. Bentley,</hi> we.</item>
+                  <item>1648 <hi>Lond.</hi> by the Comp. of Stationers, we.</item>
+                  <pb n="15" facs="tcp:97325:12"/>
+                  <item>1648 <hi>Lond.</hi> by <hi>R. Barker</hi> and Aſſigns of <hi>J. Bill,</hi> we.</item>
+                  <item>1648 <hi>Lond.</hi> by <hi>Evan Tyler,</hi> we.</item>
+                  <item>1648 <hi>Cambr.</hi> by <hi>R. Daniel,</hi> Twelves, we.</item>
+                  <item>1649 <hi>Lond.</hi> by the Comp. of Stationers, we.</item>
+                  <item>1649 <hi>Lond.</hi> by the Company of Stationers,
+<hi>Octavo,</hi> we.</item>
+                  <item>1649 <hi>Lond.</hi> by the Company of Stationers, Quarto, with <hi>Geneva</hi> Notes, we.</item>
+                  <item>1650 <hi>Lond.</hi> by <hi>Roger Norton,</hi> Octavo, we.</item>
+                  <item>1650 <hi>Lond.</hi> by the Comp. of Stat. la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge <hi>Oct.</hi> we.</item>
+                  <item>1651 <hi>Lond.</hi> by the Comp. of Stationers, we.</item>
+                  <item>1651 <hi>Lond.</hi> by <hi>Roger Norton, Octavo,</hi> we.</item>
+                  <item>1652 <hi>Lond.</hi> by the Company of Stationers,
+<hi>Octavo,</hi> we.</item>
+                  <item>1652 <hi>Lond.</hi> by <hi>J. Field,</hi> Printer to the Parliament of <hi>England, Twelves,</hi> we.</item>
+                  <item>1653 <hi>Lond.</hi> by <hi>J. Field,</hi> Printer to the Parl. <hi>Twelves,</hi> we.</item>
+                  <item>1653 <hi>Lond.</hi> by <hi>Field,</hi> 24. we.</item>
+                  <item>1653 <hi>Lond.</hi> by <hi>Evan Tyler,</hi> we.</item>
+                  <item>1653 <hi>Lond.</hi> for <hi>Giles Calvert,</hi> we.</item>
+                  <item>1653 <hi>Lond.</hi> by <hi>J. Field,</hi> Parl. Print. we.</item>
+                  <item>1654 <hi>Lond.</hi> by <hi>Evan Tyler,</hi> we. 24.</item>
+                  <item>1655 <hi>Lond.</hi> by <hi>Norton,</hi> we.</item>
+                  <item>1655 <hi>Lond.</hi> by <hi>E. T.</hi> for the Society of Stat. we.</item>
+                  <item>1656 <hi>Lond.</hi> by <hi>H. Hills,</hi> and <hi>J. Field, Twelv.</hi> we.</item>
+                  <item>1656 <hi>Lond.</hi> by <hi>Jo. Field,</hi> one of his Highneſs's Printers, 8vo. we.</item>
+                  <item>1657 <hi>Lond.</hi> by <hi>James Fleſher,</hi> we.</item>
+                  <item>1657 <hi>Cambr.</hi> by <hi>Jo. Field,</hi> large 8vo, ye.</item>
+                  <item>1657 <hi>Cambr.</hi> by <hi>R. Daniel,</hi> ye.</item>
+                  <item>1658 <hi>Cambr.</hi> by <hi>Jo. Field,</hi> one of his Highneſs's Printers, <hi>Twelv.</hi> we.</item>
+                  <item>1658 <hi>Cambr.</hi> by <hi>Jo. Field,</hi> one of his Highneſs's Printers, 24. we.</item>
+                  <item>1659 <hi>Cambr.</hi> by <hi>Jo. Field,</hi> large Fol. ye.</item>
+               </list>
+               <p>By this Table of Editions it appears, That moſt Impreſſions from 40 to 60 are right. I cou'd yet find but <hi>three</hi> Editions that have <hi>ye</hi> in <hi>Acts</hi> 6.3. during the whole time of the Long Parliament, which I have noted in the Year 1657, one by
+<hi>Field,</hi> the other by <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> and a third by <hi>Field,</hi>
+59. Theſe muſt be accidental, becauſe <hi>Fleſher</hi>'s Edition of
+1657 is right, and <hi>Field</hi> and <hi>Daniel</hi> are right in the Editions of other Years.</p>
+               <p>All which makes it very Evident, the Presbyterians had no deſign to falſifie the Sacred Text.</p>
+               <p n="4">4. Several Editions in King <hi>Charles</hi> the Second's time, when the <hi>Biſhops,</hi> and not the <hi>Diſſenters</hi> had the Management of the Preſs, are Corrupt, and have, <hi>whom ye may appoint,</hi> in <hi>Acts</hi> 6.3.</p>
+               <p>I will preſent the Reader with the true and falſe Editions in two diſtinct Tables, from the Year 1660, to this preſent Year 1696.</p>
+               <p>The true Editions that have <hi>whom we may appoint,</hi> are as follows:</p>
+               <list>
+                  <item>1660. <hi>Lond.</hi> by <hi>Hills</hi> and <hi>Field,</hi> large Octavo, <hi>we.</hi>
+                  </item>
+                  <item>1662. <hi>Cann</hi>'s Bible <hi>we.</hi>
+                  </item>
+                  <item>1663. <hi>Cambr.</hi> J. Field, Quarto, <hi>we.</hi>
+                  </item>
+                  <item>1664. <hi>Cann</hi>'s Bible with References hath
+<hi>we,</hi> though a very Corrupt Edition.</item>
+                  <item>1666. <hi>Cambr.</hi> by <hi>J. Field,</hi> Quarto,
+<hi>we.</hi>
+                  </item>
+                  <item>1669. <hi>Lond.</hi> by <hi>Bill</hi> and <hi>Barker, we.</hi>
+                  </item>
+                  <item>1669. <hi>Savoy,</hi> by <hi>Bill</hi> and <hi>Barker,</hi> large Octavo, <hi>we.</hi>
+                  </item>
+                  <item>1669. <hi>Lond.</hi> by <hi>Barker,</hi> we.</item>
+                  <item>1669. <hi>Lond.</hi> by <hi>Bill</hi> and <hi>Barker,</hi> Octavo, <hi>we.</hi>
+                  </item>
+                  <item>1670. <hi>Cambr.</hi> by <hi>J. Hays,</hi> Quarto,
+<hi>we.</hi>
+                  </item>
+                  <item>1673. <hi>Lond.</hi> by <hi>Barker</hi> and <hi>Bill,</hi> Octavo, <hi>we.</hi>
+                  </item>
+                  <pb n="16" facs="tcp:97325:13"/>
+                  <item>1675. <hi>Oxford,</hi> Quarto, <hi>we.</hi>
+                  </item>
+                  <item>1675. <hi>Lond.</hi> by the Aſſigns of <hi>Bill</hi> and <hi>Barker,</hi> large Octavo, <hi>we.</hi>
+                  </item>
+                  <item>1675. <hi>Cambr.</hi> by <hi>J. Hays,</hi> Quarto,
+<hi>we.</hi>
+                  </item>
+                  <item>1676. <hi>Lond.</hi> by <hi>Chr. Barker,</hi> Quarto,
+<hi>we.</hi>
+                  </item>
+                  <item>1677. <hi>Cambr.</hi> by <hi>J. Hays,</hi> Quarto,
+<hi>we.</hi>
+                  </item>
+                  <item>1678. <hi>Lond.</hi> by <hi>Bill, Barker, Newcomb</hi> and
+<hi>Hills,</hi> Octavo, we.</item>
+                  <item>1679. <hi>Oxford,</hi> Quarto, we.</item>
+                  <item>1680. <hi>Cambr.</hi> by <hi>J. Hays,</hi> Quarto, we.</item>
+                  <item>1681. <hi>Edingburgh,</hi> by the Heir of <hi>Andr. Anderſon,</hi> Printer to the King, Quarto, we.</item>
+                  <item>1682. <hi>Oxford,</hi> Octavo, we.</item>
+                  <item>1683. <hi>Oxford,</hi> Quarto, we.</item>
+                  <item>1684. <hi>Lond. Bill, Newcomb</hi> and <hi>Hills,</hi> we.</item>
+                  <item>1684. <hi>Oxford,</hi> Fol. we.</item>
+                  <item>1685. — <hi>Twelves,</hi> we, and another 24. we.</item>
+                  <item>1686. — we.</item>
+                  <item>1687. <hi>Lond.</hi> by <hi>Bill, Hills</hi> and
+<hi>Newcomb,</hi> we.</item>
+                  <item>1687. <hi>Oxford,</hi> we.</item>
+                  <item>1688. <hi>Lond,</hi> by <hi>Bill, Hills</hi> and
+<hi>Newcomb,</hi> we.</item>
+                  <item>1688. <hi>Oxford,</hi> 24. we.</item>
+                  <item>1689. <hi>Oxford,</hi> we.</item>
+                  <item>169<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.
+<hi>Lond. Chr. Bill,</hi> and <hi>Tho. Newcomb,</hi> large Octavo, we.</item>
+                  <item>1691. —by <hi>Bill</hi> and <hi>Newcomb,</hi> Twelves, we.</item>
+                  <item>1691. —by <hi>Bill</hi> and <hi>Newcomb<g ref="char:punc">▪</g>
+                     </hi> Octavo, we.</item>
+                  <item>1692. —by <hi>Bill,</hi> and the Executrix of
+<hi>Tho. Newcomb,</hi> we.</item>
+                  <item>1693. —by <hi>Bill,</hi> we.</item>
+                  <item>169<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. —by <hi>Bill,</hi> and the Executrix of <hi>Newcomb,</hi> we.</item>
+                  <item>1694. —by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi> we</item>
+                  <item>1695. —by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi> we.</item>
+                  <item>1695. <hi>Oxford</hi>— we</item>
+                  <item>1695. <hi>London</hi> the New Teſtament; with Mr.
+<hi>Baxter</hi>'s Notes, we.</item>
+                  <item>1696. —by <hi>Bill</hi> and others, we.</item>
+                  <item>1696. —by <hi>Chr. Bill,</hi> and Executrix of
+<hi>Tho. Newcomb,</hi> we.</item>
+               </list>
+               <p>It's obſervable here, 1. That Two Editions of <hi>Came,</hi> which is all I have ſeen of his, have <hi>We.</hi> He was a rigid
+<hi>Bromnist,</hi> but did not miſ-print this place.</p>
+               <p n="2">2. Mr. <hi>Baxter</hi>'s Edition of the New Teſtament, for which he was Fined and Impriſoned, hath <hi>We.</hi> His very Enemies cou'd not charge him with corrupting the Sacred Text.</p>
+               <p n="3">3. The <hi>Scotch</hi> Edition in 1681, hath <hi>We;</hi> ſo hath a former Edition which I noted in 1642, and three more by <hi>Evan Tyler,</hi> the <hi>Scotch</hi> Printer in 53, 54, 55. Theſe are all the
+<hi>Scotch</hi> Editions I have yet ſeen, by which we may judge of the reſt: Tho he confidently affirms, without the leaſt Proof, <hi>That the</hi> Scotch <hi>Bibles are generally faulty in this paſſage</hi> p. 28. And, <hi>That the</hi> Scotch <hi>Kirk
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs with, and refines upon the Word of God.</hi> P. 26. But per<g ref="char:EOLhyphen"/>haps, I may give a more full account of the <hi>Scotch</hi> Bibles hereafter.</p>
+               <p>I will ſubjoin an Account of ſuch faulty Editions as I have met with from 1660 to 1696, which are as followeth:</p>
+               <list>
+                  <item>1660. <hi>London,</hi> by <hi>John Field.</hi> ye <hi>may appoint,</hi> Act. 6.3.</item>
+                  <item>1661. <hi>Cambridge,</hi> by <hi>J. Field,</hi> large 8vo. ye</item>
+                  <item>1663. <hi>London,</hi> by <hi>Bill</hi> and <hi>Barker</hi> — ye</item>
+                  <item>1665. —by <hi>J. Bill</hi> and <hi>Chr. Barker,</hi> ye.</item>
+                  <item>1666. —by <hi>Bill</hi> and <hi>Barker,</hi> ye.</item>
+                  <item>1668. —by <hi>Bill</hi> and <hi>Barker,</hi> ye.</item>
+                  <item>1668. <hi>Savoy,</hi> by <hi>Bill</hi> and <hi>Barker,</hi> ye.</item>
+                  <pb n="17" facs="tcp:97325:13"/>
+                  <item>1670. <hi>Savoy</hi> by the Aſſigns of <hi>John Bill</hi> and <hi>Chr. Barker,</hi> ye.</item>
+                  <item>1671. — by the Aſſigns of <hi>J. Bill</hi> and
+<hi>Chr. Barker,</hi> ye (large 8vo.)</item>
+                  <item>1671. <hi>Oxford,</hi> ſmall 8vo. ye.</item>
+                  <item>1672. <hi>Savoy,</hi> by the Aſſigns of <hi>Bill</hi> and <hi>Barker,</hi> 12. ye.</item>
+                  <item>1672. <hi>London,</hi> by the Aſſigns of <hi>Bill</hi> and <hi>Barker,</hi> 24. ye.</item>
+                  <item>1673. — by <hi>Bill</hi> and <hi>Barker.</hi> 24. ye.</item>
+                  <item>1673. — by the Aſſigns of <hi>Bill</hi> and
+<hi>Barker,</hi> 8vo. ye.</item>
+                  <item>1674. — by the Aſſigns of <hi>Bill</hi> and
+<hi>Barker,</hi> ye.</item>
+                  <item>1675. — by the Aſſigns of <hi>Bill</hi> and
+<hi>Barker,</hi> 12. ye.</item>
+                  <item>1676. — by <hi>Bill</hi> and <hi>Barker,</hi> 12. ye.</item>
+                  <item>1676. — by the Aſſigns of <hi>Bill</hi> and
+<hi>Barker,</hi> 24. ye.</item>
+                  <item>1677. — by the Aſſigns of <hi>Bill</hi> and
+<hi>Barker,</hi> ye.</item>
+                  <item>1678. — by <hi>Bill, Barker, Newcomb</hi> and
+<hi>Hills,</hi> ye.</item>
+                  <item>1679. — by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi> large 8vo. ye.</item>
+                  <item>1679. — by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi>
+12. ye.</item>
+                  <item>1680. <hi>Oxford,</hi> 8vo. ye.</item>
+                  <item>1680. <hi>London,</hi> by the Aſſigns of <hi>Bill, Newccomb</hi> and <hi>Hills,</hi> ye</item>
+                  <item>1681. <hi>Oxford,</hi> ſmall 8vo. ye.</item>
+                  <item>1681. <hi>London,</hi> by <hi>Bill, Newcomb</hi> and
+<hi>Hills,</hi> ye. 8vo.</item>
+                  <item>1681. — by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi>
+24. ye.</item>
+                  <item>1682. — by <hi>Bill, Newcomb</hi> and <hi>Hills,</hi> ye.</item>
+                  <item>1682. — by <hi>Hills</hi> and <hi>Newcomb,</hi> ye.</item>
+                  <item>1682. — by the Aſſigns of <hi>Jo. Bill, Tho. Newcomb</hi> and <hi>Henry Hills,</hi> large 8vo. ye.</item>
+                  <item>1683. — by <hi>Hills</hi> and <hi>Newcomb,</hi> ye.</item>
+                  <item>1683. — by the Aſſigns of <hi>Bill,</hi> and by
+<hi>Hills</hi> and <hi>Newcomb,</hi> ye.</item>
+                  <item>1684. — by the Aſſigns of <hi>Bill,</hi> and by
+<hi>Hills</hi> and <hi>Newcomb,</hi> ye.</item>
+                  <item>1685. — by the Aſſigns of <hi>J. Bill,</hi> and by <hi>Hills</hi> and <hi>Newcomb,</hi> ye.</item>
+                  <item>1686. — by <hi>Charles Bill, H. Hills</hi> and
+<hi>Tho. Newcomb,</hi> ye.</item>
+                  <item>1687. — by <hi>Ch. Bill, Hills</hi> and
+<hi>Newcomb,</hi> ye.</item>
+                  <item>1689. <hi>Oxford,</hi> large 8vo. ye.</item>
+                  <item>1691. — 12. ye.</item>
+               </list>
+               <p>Obſerve in theſe Editions:</p>
+               <p n="1">1. They are all <hi>Octavo's</hi> or <hi>Duodecimo's</hi> of the larger or ſmaller ſize, but where the contrary is expreſſed.</p>
+               <p n="2">2. I find no leſs than Thirty Eight Editions that are faulty in <hi>Act.</hi> 6.3. Our Au<g ref="char:EOLhyphen"/>thor tells us
+<q rend="margQuotes">That upon Examination he hath found the firſt accidental ſlip repeated ſince in at leaſt half a dozen Impreſſions of the Bible here in <hi>England, p.</hi> 27.</q> And in another place he ſaith,
+<q rend="margQuotes">His Diligence and Obſervation has not been a little, and ma<g ref="char:EOLhyphen"/>naged with all care and faithfulneſs in examining this point, <hi>P.</hi> 22.</q> If his <hi>Faithfulneſs</hi> be no greater than his <hi>Diligence</hi> and <hi>Obſervation,</hi> I doubt it's very little. Wonderful Diligence! to be able to diſcover about Six or Seven faulty Impreſſions in near Forty.</p>
+               <p n="3">3. I can meet but with two faulty Editions in King
+<hi>William</hi>'s Time, and both in <hi>Oxford.</hi>
+                  <q rend="margQuotes">which, he ſays, has, for ought he can learn, been ſomewhat happier, in this kind, than her Siſter <hi>Cambridge, P.</hi> 22.</q> But in this alſo, he is ſomewhat miſtaken, as he is in his other accounts: For I find Five <hi>Oxford</hi> Editions that are faulty. And I hope, he will not ſay, That Preſbytery was in the Aſcendant when theſe Corruptions happened there.</p>
+               <p n="4">4. Different Editions by the ſame hand do vary, ſome having <hi>we,</hi> others <hi>ye,</hi> which is an evidence the Corruption is accidental. <hi>Bill</hi> and <hi>Barker</hi>'s Edition in <hi>Octavo,</hi>
+1673, hath <hi>We;</hi> another Edition by <hi>Bill</hi> and <hi>Barker</hi> in
+24's, 1673, hath <hi>Ye.</hi> So in 1678, and in 1687.</p>
+               <p n="5">5. From the whole it appears, that moſt of the Corrupt Editions were in K. <hi>Charles</hi> the II's time, when the <hi>Epiſcopal Party</hi> were in the Aſcendant, and had the ſole Manage<g ref="char:EOLhyphen"/>ment of the Preſs.</p>
+               <pb n="18" facs="tcp:97325:14"/>
+               <p>Therefore let the Rector lay the Saddle on the right Horſe, and when he has done, let him try his Skill, by another <hi>Tentamen novum,</hi> to make it fit as eaſie as he can. I will not intrude upon his Province, to enquire into the Reaſons of multiplying Corrupt Editi<g ref="char:EOLhyphen"/>ons in that Reign, in which <hi>Debauchery</hi> and <hi>Corruption of Manners were in the Aſcendant,</hi> which might render it a little difficult for the
+<hi>Masters Printers,</hi> to get <hi>ſober</hi> and <hi>conſcienti<g ref="char:EOLhyphen"/>ous Correctors.</hi>
+               </p>
+               <p>I am of this Gentleman's mind, That ſome effectual courſe ſhould be taken to rectifie not only this (which is all his concern) but
+<hi>other</hi> miſtakes of the Preſs; but we differ in the <hi>Method of curing</hi> theſe Evils.</p>
+               <p>He recommends to thoſe in Authority, the <hi>burning of one or more Bibles</hi> thus depraved, as a proper Remedy, <hi>P.</hi> 27, 28.</p>
+               <p>I confeſs, I love not the burning of the Holy <hi>Bible,</hi> eſpecially for one <hi>literal miſtake,</hi> becauſe by the ſame Rule, all our Bibles might be in danger of the Flames, for it will be very difficult, if not next to impoſſible, to find one Bible without a <hi>literal fault.</hi> And it is not fit the <hi>Sacred Scriptures</hi> ſhould be obnoxious to the Fiery Zeal of every <hi>peeviſh Critick,</hi> or
+<hi>deſig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing</hi> Adverſary, who may take occaſion to pick quarrels with 'em, and demand
+<hi>Judgment</hi> againſt 'em for every <hi>Miſdemeanour</hi> of the Preſs.</p>
+               <p>Tell it not in <hi>Gath!</hi> That a <hi>Son of the Church,</hi> and a <hi>Proteſtant</hi> Divine, ſhould make a Motion for the <hi>burning of Bibles,</hi> at this time of day, when our <hi>Popiſh Adverſaries</hi> are threatning us, and ready to add <hi>more Fuel to the Fire,</hi> to conſume all the reſt.</p>
+               <p>But I leave this <hi>Incendiary</hi> to walk in the light of his own Fire, and to warm himſelf at the <hi>Sparks</hi> that he hath
+<hi>kindled.</hi>
+               </p>
+               <p>I humbly conceive, the moſt proper means of obtaining more
+<hi>Correct Bibles,</hi> would be the employing of perſons of greater
+<hi>Diligence</hi> and <hi>Obſervation,</hi> and of greater <hi>Care</hi> and
+<hi>Faithfulneſs</hi> than the Rector hath ſhew'd in examining the
+<hi>Errata</hi> of the Preſs.</p>
+               <p>Had he evidenced as good an Intereſt in theſe
+<hi>qualifications,</hi> as he pretends to, <hi>p.</hi> 22. he might have bid Fair for the Office of a <hi>Corrector</hi> of the Preſs, which would have ena<g ref="char:EOLhyphen"/>bled him to ſerve his Generation to better purpoſe, than he can do by
+<hi>Publiſhing Ca<g ref="char:EOLhyphen"/>lumnies in the Name of God.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Vindicating Mr. <hi>B.</hi> and Exhibiting Ten Inſtances of the <hi>Rector's</hi> corrupt way of Citing the Holy Scriptures.</head>
+               <p>IN his <hi>Epiſtle</hi> he accuſeth him alſo with corrupting the Word of God.</p>
+               <p>His Words are theſe, —
+<q rend="margQuotes">Nor is this (of <hi>Act.</hi> 6.3.) the only Inſtance of this kind. In the <hi>Diſſenters</hi> Petition for Peace above Years ſince, <hi>Act.</hi> 15.18. (it ſhould be 28.) is thus cited — <hi>To lay upon you no greater burden than neceſſary things,</hi> that ſmall word <hi>theſe</hi> being cunningly left out meerly to ſupport their Propo<g ref="char:EOLhyphen"/>ſition. Mr. <hi>B.</hi> who drew up the Petition and ſince has been publickly charg'd for thus abuſing the Scripture, though he forgot not to acquaint us, with the moſt trivial, yea, ridiculous Paſſages of his Life, yet had not the ingenuity to Confeſs his Error, nor yet the courage to palliate it with any Excuſe.</q>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>That great Man was not at leiſure to take notice of, nor diſpoſed to Anſwer every trifling Accuſer. This Accuſation is as
+<hi>groundleſs</hi> as it is <hi>malicious,</hi> and therefore Mr.
+<hi>B.</hi> might eaſily paſs it over in ſilence.</p>
+               <pb n="19" facs="tcp:97325:14"/>
+               <p>He that will make Silence an Argument of Guilt, would have Condemned the moſt Inno<g ref="char:EOLhyphen"/>cent Perſon that ever was, <hi>Matth.</hi>
+26.63.</p>
+               <p>Mr. B. urged that Text to prove that the Apoſtles impoſed only neceſſary things, and did not make unneceſſary things neceſſary, by meer Impoſition, his Words are theſe:</p>
+               <p>
+                  <q rend="margQuotes">The Apoſtles and Elders,
+<hi>Act.</hi> 15.28. declare unto the Churches, that it ſeemed Good to the Holy Ghoſt and them, to lay upon them no greater burden, than neceſſary, things; impoſing them becauſe antecedently neceſſary (for that is given as the reaſon of their Se<g ref="char:EOLhyphen"/>lection and Impoſition) and not only making unneceſſary things neceſſary, by Impoſition, for then the Impoſition had been unneceſſary, tho it was not a ſimple, unchangeable ne<g ref="char:EOLhyphen"/>ceſſity, yet it was a neceſſity by accident, <hi>pro tempore &amp; loco,</hi> antecedent to the Impoſi<g ref="char:EOLhyphen"/>tion of that Aſſembly—
+<hi>Petit. for Peace. p.</hi> 20. Lond. 1661.</q>
+               </p>
+               <p>Here I deſire the Reader to obſerve:</p>
+               <p n="1">1. That Mr. <hi>B.</hi> does not pretend to make a full Recital of the Words of the Decree, but to give the Reaſon upon which it was grounded, and that is, <hi>the neceſſity of the things im<g ref="char:EOLhyphen"/>poſed.</hi> They were not <hi>neceſſary,</hi> meerly becauſe <hi>impoſed,</hi> but
+<hi>impoſed</hi> becauſe <hi>neceſſary</hi> under preſent Circumſtances.</p>
+               <p>Had the cited the very words of the Text, he would have rendred
+'em in the ſecond per<g ref="char:EOLhyphen"/>ſon, <hi>It ſeemed Good to the Holy Ghost, and to us, to lay upon you no greater burden</hi> But he ſpeaks in the 3d perſon,
+<hi>It ſeemed Good to the Holy Ghost and them, to lay upon them</hi>— re<g ref="char:EOLhyphen"/>ferring to the <hi>History,</hi> and not to the very <hi>words</hi> of the Decree.</p>
+               <p>The Rector may as well quarrel with him for not mentioning the Canons of the Council, <hi>v.</hi> 29. (which he had no occaſion to repeat) as for leaving out the word <hi>theſe,</hi> which evident<g ref="char:EOLhyphen"/>ly points at them.</p>
+               <p>When Mr. <hi>B.</hi> cites the Words of Scripture, he does it in a different Character, as may be ſeen in that very Page in 1 <hi>Cor.</hi>
+11.19. which he there quotes in <hi>Italick Letters;</hi> but he refers to
+<hi>Acts</hi> 15.28. without changing the form of the Letters, by which 'tis apparent, he did not deſign to tranſcribe the very words of the Text.</p>
+               <p>It's ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d meaſure to Charge a Man, who only refers to a Text of Scripture, or gives the ſenſe of it, with corrupting the Word of God, becauſe he has not tranſcribed the whole <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſe.</hi>
+               </p>
+               <p n="2">2. It would have look'd more <hi>generous</hi> in this
+<hi>Criminator,</hi> to have anſwer'd Mr. B's <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> from this place againſt <hi>unneceſſary Impoſitions,</hi> than to blemiſh the Reputation of a dead Man. But it's eaſier to <hi>revile</hi> a Man than to
+<hi>confute</hi> him.</p>
+               <p n="3">3. I have reaſon to ſuſpect the Rector took up this
+<hi>Calumny</hi> at ſecond hand from Dr. <hi>Hook,</hi> to whom he refers in the <hi>Margin,</hi> and never examin'd the truth of it. For thus he begins the Charge— <hi>In the</hi> Diſſenters <hi>Petition for Peace above years ſince.</hi> He could not tell how many years ſince<g ref="char:punc">▪</g> and therefore left a <hi>blark,</hi> to be filled up by any body that would do him that kindneſs. Had he perus'd the Petition it ſelf, it would have cured his Ignorance con<g ref="char:EOLhyphen"/>cerning the diſtance of time.</p>
+               <p>Beſides he cites the Text out of the <hi>Petition</hi> thus— <hi>To lay upon you no greater burden than neceſſary things.</hi> Whereas if he had taken the Words out of the <hi>Petition</hi> it ſelf, he muſt have exhibited them as I have above— <hi>to lay upon them no greater burden</hi>—</p>
+               <p>One may ſee by this what little truſt is to be given to this man's Accuſation, who takes up any <hi>ſilly Calumny,</hi> and reports it again for truth, without once examining whether it be ſo or not: But that is inconſiſtent with the Deſign he had in hand, which was <hi>to Calumni<g ref="char:EOLhyphen"/>ate stoutly in hopes ſomething might</hi> ſtick.</p>
+               <p n="4">4. But ſince the Rector ſo roundly Charges others with corrupting the Word of God, it will not be amiſs to take notice how he treats it himſelf.</p>
+               <p>I will obſerve a few of his own <hi>Quotations,</hi> which I ſhould have over-look'd, if he had not thus unjuſtly <hi>accuſed</hi> his Brethren of that which he is <hi>notoriouſly guilty himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Qui alterum incuſat probri, ipſum ſe intueri oportet.</hi>
+               </p>
+               <p>
+                  <hi>Thou art inexcuſable, O Man</hi> — <hi>for wherein thou judgeſt another, thou condemneſt thy ſelf, for thou that judgeſt doest the ſame things,</hi> Rom. 2.1.</p>
+               <p>I confeſs, I love not <hi>recriminations,</hi> but when a Man is ſo quick-ſighted, as to <hi>behold a <pb n="20" facs="tcp:97325:15" rendition="simple:additions"/>mote in his</hi> brothers Eye, 'tis an <hi>act of Charity</hi> to help him to a Glaſs that may diſcover unto him <hi>ſome of the beam</hi> in his own Eye.</p>
+               <p>If he pleaſe to re-view the <hi>Scripture-Quotations</hi> in his own Sermon, he'l find many of 'em not exactly rendred. He would reckon it unfair did we go about to aggravate its <hi>Over<g ref="char:EOLhyphen"/>ſights,</hi> and charge him with <hi>poyſoning the fountain-head, refining upon the Word of God, lying againſt the Holy Ghost,</hi> &amp;c. He would ſay, theſe were <hi>hard Words;</hi> and yet this is the Lan<g ref="char:EOLunhyphen"/>guage he gives the <hi>Diſſenters</hi> for a <hi>litteral fault,</hi> which he cannot prove upon them.</p>
+               <p>
+                  <hi>Inſtances of his careleſs and looſe way of citing the Scriptures.</hi>
+               </p>
+               <p n="1">I. His very Text from which he takes occaſion to aggravate his Charge againſt us of <hi>Corrupting the Word of God,</hi> is corruptly rendred by him, <hi>Prov.</hi> 30.6. <hi>Add thou not unto his Word,</hi> ſo the Rector. It ſhould have been, <hi>Add you not unto his Words,</hi> in the pl. So it is in our <hi>Engliſh</hi> Bibles,
+<hi>&amp;c.</hi> ſo it is in the Original <hi>Hebrew</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>verbis ejus.</hi> Here is a <hi>litteral fault,</hi> and ſuch as ſubſtitutes the ſingular number for the plural, in our Rector's very Text. He that ſo grievouſly cenſures others for a <hi>litteral fault,</hi> ſhould tell by what Authority he makes bold to alter (or to uſe his own Dialect, to <hi>corrupt</hi>) the very Text of his Sermon.</p>
+               <p>He repeat; the Text in the ſame manner, in <hi>P.</hi> 1. and
+2. and therefore cannot charge the Preſs with this Error.</p>
+               <p>It's true the variation does not <hi>corrupt the ſenſe;</hi> but allow Men a liberty of a <hi>litteral variation</hi> from the Language of the Holy Ghoſt, the <hi>ſenſe</hi> and <hi>meaning</hi> cannot be long
+<hi>ſecur'd.</hi>
+               </p>
+               <p n="2">II. The firſt Scripture that occurs after the Text and Context, is 1 <hi>Cor.</hi> 10.11. <hi>writ<g ref="char:EOLhyphen"/>ten for our instruction upon whom the ends of the World are come:</hi> So he reads it, (<hi>p.</hi> 1.) but in our <hi>Engliſh</hi> Bibles it is thus— <hi>written for our</hi> admonition <hi>upon whom</hi>— Here he changes <hi>admonition</hi> into
+<hi>instruction,</hi> tho the Original he <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and properly render'd <hi>admonition</hi> by our <hi>Tranſlators</hi> both here, and in
+<hi>Eph.</hi> 6.4. <hi>Titus</hi> 3.10.</p>
+               <p n="3">III. His next Allegation is from <hi>Deut.</hi> 4.2.
+<hi>Ye ſhall not add unto the Word, neither ſhall ye diminiſh ought from it.</hi> It ought to be thus read, <hi>Ye ſhall not add unto the Word which I command you, neither ſhall ye diminiſh ought from it.</hi> Here he leaves out the Words <hi>which I command you,</hi> without which the ſenſe is imperfect. He condemns Mr. B. for leaving out the word <hi>theſe,</hi> and himſelf leaves out but four Words together, and thoſe alſo eſſential to the ſentence he p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oduceth.</p>
+               <p n="4">IV. Having compar'd his Text with <hi>Deut.</hi> 2. and
+12.32. he enlargeth his foun<g ref="char:EOLhyphen"/>dations, and ſaith, for which reaſon therefore I would read the Text thus, <hi>add not thou un<g ref="char:EOLhyphen"/>to his Word, neither diminiſh ought from it,</hi> p. 2.</p>
+               <p>He may read it as he pleaſes, but thoſe Words, <hi>neither diminiſh ought from it,</hi> are an ad<g ref="char:EOLhyphen"/>dition to that Text, which ſaith
+<hi>add not.</hi> Muſt we tack to every Text what is ſaid in other Scriptures more fully, and make that <hi>explanatory addition</hi> an eſſential part of the Text? And when we have thus fill'd it up from
+<hi>parallel</hi> Scriptures, ſhall we pretend it ought to be <hi>read</hi> thus? This would create as many various Readings, as there are parallel Texts.</p>
+               <p>Unhappy <hi>Solomon!</hi> Hadſt thou liv'd in our days to conſult a Man <hi>wiſer than thy ſelf,</hi> he wou'd have taught thee to have put this Saying in a better form, and to write it thus, <hi>add thou not unto his word, neither diminiſh ought from it.</hi> However, thou can'ſt not but take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t kindly, that he ſupplies in Reading, the defect of thy Writing.</p>
+               <p>Our <hi>Hebrew</hi> Bibles have ſeveral <hi>Keri's</hi> and
+<hi>Cethib's,</hi> in which the Marginal Reading va<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es from the <hi>Writing</hi> in the Text, as the
+<hi>Maſorites</hi> have obſerved: But this new <hi>Keri,</hi> or
+<hi>Reading</hi> eſcaped their Obſervation. It's to be hoped the Learned World will take notice of it in the next Edition of the <hi>Maſora.</hi>
+               </p>
+               <p>We have all read theſe Words, <hi>neither diminiſh ought from it,</hi> in <hi>Deut.</hi> 4.2. but a Man may ſooner read out his Eyes, than read the words in the Rector's Text, as it lies in our Bibles.</p>
+               <pb n="21" facs="tcp:97325:15"/>
+               <p>And therefore to help you to the <hi>True Reading</hi> of this place, you muſt make a <hi>Thankful Purchaſe</hi> of the Rectors Sermon for your Inſtruction.</p>
+               <p n="5">V. He thus cites <hi>Iſa.</hi> 11.9. That <hi>the knowledge of the Lord might cover the Earth, as the Waters cover the Sea.</hi> Our Bibles have it thus, <hi>The Earth ſhall be full of the knowledge of the Lord, as the Waters cover the Sea.</hi>
+               </p>
+               <p>Here alſo he not only changes the Conſtruction of the former part of this Sentence, but ſubſtitutes one word for another, <hi>viz. might cover,</hi> inſtead of <hi>ſhall be full.</hi> The Heb. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which we render <hi>ſhall be full,</hi> will not admit of the Rector's Tranſlation. <hi>Schindler</hi> (in his <hi>Lexic. Pentaglot.</hi>) mentions four ſignifications of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> but not one to the Rector's purpoſe.</p>
+               <p>Nor will the Lxx's Tranſlation relieve him, for that has
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which anſwers our Engliſh <hi>filled,</hi> And I do not find that the other <hi>Gr. Verſions</hi> do vary from the Lxx upon this Text. <hi>Vid. Frag. Veter. Interp. Graec. in Iſa.</hi> 11.</p>
+               <p>The Rector therefore abuſes this Scripture in the two Inſtances which he condemns in others, viz. <hi>diminiſhing</hi> and
+<hi>adding.</hi> He <hi>diminiſhes,</hi> by expunging thoſe words,
+<hi>ſhall be full;</hi> and adds of his own, the words, <hi>might cover.</hi>
+               </p>
+               <p n="6">VI. He thus quotes <hi>Rev.</hi> 22.18, 19. <hi>I certifie to every man,</hi> &amp;c. p. 13. Our Engliſh Bibles have it, <hi>I testifie unto every man</hi>—And the Gr. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ought to be ſo rendred. It ſhould ſeem the Rector wanted his Spectacles, and by a miſtake of the Letter read <hi>certify,</hi> for <hi>teſtify.</hi>
+               </p>
+               <p n="7">VII. He tells us that <hi>We diminiſh from the Word, when we caſt away any, never ſo little part of it</hi> p. 13. And thus he cites <hi>Matth.</hi> 5.18.— <hi>Till Heaven and Earth paſs away, not one jor, or tittle ſhall paſs from the Law.</hi>
+               </p>
+               <p>Our Bibles render the Verſe thus—<hi>Till Heaven and Earth paſs, one jot or one tittle ſhall in no wiſe (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) paſs from the Law, till all the fulfilled.</hi> Here he leaves out the little word <hi>(one)</hi> which is repeated in the Text, and the weighty words,
+<hi>in no wiſe;</hi> and over-looks the Concluding words, <hi>till all be fulfilled.</hi>
+               </p>
+               <p>Doubtleſs the words left out here, are <hi>a little part</hi> of the Scripture; and therefore by his own Doctrine he <hi>diminiſheth</hi> from the Word.</p>
+               <p n="7">VIII. He thus gives the words of <hi>Acts</hi> 6.3.
+<hi>Seek out ſeven Men of honeſt Report, and full of the Holy Ghost,</hi> &amp;c. p. 21.</p>
+               <p>Our Authorized Bibles have it thus, <hi>Look ye out among you ſeven Men</hi>—Here he puts <hi>ſeek</hi> for <hi>look</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) perhaps this alſo was an <hi>Overſight</hi> in
+<hi>Reading:</hi> But why he ſhould leave out thoſe words, <hi>among you,</hi> I can give as little Reaſon, as he can in charging Mr. <hi>B.</hi> with <hi>abuſing the Scripture,</hi> in leaving out <hi>(theſe)</hi> when he did not pretend to cite the very words of the Text, as the Rector here doth.</p>
+               <p>But I hope he'll <hi>have the Ingenuity to confeſs his Error, or the Courage to palliate it with an Excuſe, (Epiſt.)</hi> the want of which he blames in Mr. <hi>B.</hi>
+               </p>
+               <p n="9">IX. He exhorts his Brethren <hi>to lay aſide all guile and hypocriſies,</hi> 1 Pet. 2.1. P. 26.</p>
+               <p>The Text runs thus—<hi>Laying aſide</hi> all malice,
+<hi>and all guile and hypocriſies, and envies, and evil ſpeakings.</hi>
+               </p>
+               <p>How he comes to ſkip over <hi>all malice,</hi> and to begin with <hi>guile,</hi> I do not pretend to give a Reaſon; tho' perhaps ſome may tell him, That his Sermon is ſo <hi>full of malice</hi> againſt the Diſſenters, that he was not willing this <hi>troubleſome word</hi> ſhould ſtare him in the face, and create any uneaſineſs of thought to him, in his <hi>warm purſuit</hi> of that Party.</p>
+               <p n="10">X. I will inſtance in one other Text, which he thus renders, 2 <hi>Pet.</hi> 3.16. <hi>Which they that are <g ref="char:V">Ʋ</g>nstable and <g ref="char:V">Ʋ</g>nlearned wreſt, as they do all the other Scriptures, to their own deſtruction.</hi>
+               </p>
+               <p>In our Bibles the words are thus, <hi>Which they that are <g ref="char:V">Ʋ</g>nlearned and <g ref="char:V">Ʋ</g>nſtable wreſt, as they do alſo the other Scriptures,</hi> &amp;c.</p>
+               <p>Here he not only perverts the Order of the Holy Ghoſt, in the words, <hi>
+                     <g ref="char:V">Ʋ</g>nlearned and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>stable;</hi> but for <hi>alſo the other Scriptures,</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) he reads <hi>all the other Scriptures.</hi>
+               </p>
+               <p>Thus we have tra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d him in his <hi>Scripture-Quotations,</hi> in which one might have expected more Exactneſs from ſo <hi>Critical</hi> a
+<hi>Cenſor.</hi>
+               </p>
+               <pb n="22" facs="tcp:97325:16"/>
+               <p>To declame with ſuch bitterneſs againſt Innocent Men, as
+<hi>Corrupters of the Word of God,</hi> and in the ſame Breath to cite the Scriptures ſo <hi>Corruptly,</hi> evidences more of <hi>Hatred</hi> to the Presbyterians, than of <hi>Affection</hi> to the Word of God.</p>
+               <p>I will not ſay he had any Deſign to Corrupt theſe Scriptures: I believe it was an <hi>Over<g ref="char:EOLhyphen"/>ſight,</hi> which is culpable enough in a Man of his Character, without being aggravated.</p>
+               <p>The Rector, of any man, ſhould be charitable in his Cenſures of others, who while he is unjuſtly charging the <hi>Diſſenters</hi> with one <hi>falſe reading,</hi> has made himſelf undeniably guilty of <hi>Ten. Ton</hi> to <hi>One</hi> is great Odds, and yet our Accuſer would be thought a <hi>warm</hi> and <hi>zealous</hi> defender of the Scriptures, for theſe
+<hi>Epithets</hi> he gives himſelf, <hi>p.</hi> 27.</p>
+               <p>If ever poor Man has made work for <hi>Repentance,</hi> the Rector has done ſo in this Ser<g ref="char:EOLhyphen"/>mon (if I may abuſe the Word by calling a
+<hi>Libel</hi> by that name) the chief deſign of which is to load his Brethren with a <hi>Crime</hi> not to be named among Chriſtians. He tells us, that the <hi>Chief Reaſon of his undertaking,</hi> was to tax the
+<hi>Diſſenters</hi> with <hi>corrupting the Word of God.</hi> Epiſt. &amp; p. 2. Nay, he ſaith, <hi>it is the point he chiefly aimed to inſiſt on,</hi> p. 20.</p>
+               <p>Now let the World judge, what a <hi>vile thing</hi> it is, to accuſe a Conſiderable Party of Sober Chriſtians, of the moſt
+<hi>impious practices,</hi> without the leaſt Proof to ſupport the Charge.</p>
+               <p>
+                  <hi>A good Name is better than precious Ointment, and rather to be choſen than great Riches,</hi> Eccl. 7.1. <hi>Pro.</hi> 22.1. therefore he that robs me of it, deprives me of that which is more valuable than Gold and Silver. For this Reaſon, a <hi>falſe teſtimony</hi> was Capitally puniſh'd by the old <hi>Roman</hi> Laws, <hi>Aul. Gell.</hi> xx. 1. And God himſelf has levelled one of the <hi>Ten Commandments</hi> againſt this Wickedneſs. He that ſaid, <hi>Thou ſhalt not kill, Thou ſhalt not commit adultery,</hi> hath alſo ſaid, <hi>Thou ſhalt not bear falſe Witneſs.</hi>
+               </p>
+               <p>Men may talk of Religion, and of their Zeal for the Word of God, but when the Tongue <hi>is ſet on fire of Hell, and full of deadly poyſon,</hi> they'll ſcarce convince the World that they have any great ſhare of the one or the other.</p>
+               <p>Can any thing be more inconſiſtent, than at the ſame time,
+<hi>to bleſs God even the Fa<g ref="char:EOLhyphen"/>ther, and to curſe</hi> (or reproach) <hi>men which are made after the ſimilitude of God?</hi> Can there be a greater Inſtance of this, than for a Man to <hi>aim</hi> at the reviling of his Neighbours as the <hi>Chief Point</hi> he drives at in Preaching the Word of God.</p>
+               <p>He that violates the Laws of <hi>Truth in his own words,</hi> may be preſum'd to have no great regard to the <hi>Truth of Gods Word.</hi>
+               </p>
+               <p>'Twas a ſaying of <hi>Pythagoras,</hi> that the Gods had granted unto Men two amiable Bleſ<g ref="char:EOLhyphen"/>ſings, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to embrace the truth, and to do good.</hi>
+                  <note n="*" place="bottom">Aelian. Hiſt. Var. <hi>xii, 59.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>Truth</hi> and <hi>Goodneſs</hi> are <hi>Divine Perſections,</hi> and the contrary to them are the diſtinguiſh<g ref="char:EOLhyphen"/>ing Characters of the moſt <hi>degenerate Spirits.</hi>
+               </p>
+               <p>I leave it to impartial Judgments to conſider how far the Rector has declined a Con<g ref="char:EOLhyphen"/>formity to the <hi>Divine Pattern,</hi> and imitated the <hi>Accuſer of the Brethren,</hi> whoſe Prime Qua<g ref="char:EOLhyphen"/>lities are
+<hi>Lying</hi> and <hi>Malignity.</hi>
+               </p>
+               <p>I have now done with him, and will only offer him this wholſome Counſel at parting, in requital of the Wrong he hath done us.</p>
+               <p>If he expects a well-grounded-Peace in a Dying-Hour, I would adviſe him in a penitent manner to ask forgiveneſs, (1.) Of God, in whoſe Sacred Name he delivered this <hi>Scan<g ref="char:EOLhyphen"/>dalous Figment.</hi> (2.) Of his
+<hi>Brethren</hi> the <hi>Diſſenters,</hi> whoſe Reputation he would have mortally wounded, if the poiſon'd Arrow of a Falſe Tongue could have done it. (3.) Of his <hi>Dioceſan,</hi> and that <hi>Publick Aſſembly,</hi> in whoſe Ears he Publiſhed this Calumny; and (4.) Of that <hi>Honourable Lord,</hi> under whoſe Name he preſumes to <hi>ſhelter</hi> himſelf<note n="†" place="bottom">Epiſt.</note>, while he diſcharges
+<hi>Volleys</hi> of Reproaches againſt a Multitude of Innocent People, whoſe only Defence is the <hi>Armour of Righteouſneſs.</hi>
+               </p>
+               <p>When he has proceeded thus far in the Duty of a Penitent, he ought to make what rea<g ref="char:EOLhyphen"/>ſonable <hi>ſatisfaction</hi> he is able, to the injured Party. The <hi>Diſſenters</hi> deſire no <hi>Damages,</hi>
+                  <pb n="23" facs="tcp:97325:16"/>for the Prejudices he has violently endeavour'd to have done them: All the <hi>Reparation</hi> they demand, is no more than what himſelf muſt needs judge reaſonable, that is, That he will <hi>burn his Sermon.</hi>
+               </p>
+               <p>This he cannot juſtly except againſt, for he himſelf hath condemn'd <hi>whole Bibles to be burnt for</hi> one <hi>Corruption of the Sacred Text</hi>
+                  <note place="bottom">
+                     <hi>p.</hi> 27, 28.</note>, and if this be a righteous ſentence (as he thinks it is) he cannot but think it highly equitable, That his Sermon ſhould be <hi>caſt into the fire,</hi> which contains Ten Corruptions of the Sacred Text, beſides the <hi>corrupt Deſign</hi> of the whole, to <hi>Libel</hi> his honeſt Neighbours.</p>
+               <p>This may ſerve as a Touchſtone to try the ſincerity of his
+<hi>Zeal</hi> to the Word of God, and it's Purity. If it be ſuch as he pretends, he'll make no difficulty of <hi>expiating</hi> his Crime by ſuch a
+<hi>cheap ſacrifice</hi> as this. For if he can ſacrifice a Bible in revenge of the <hi>Diſſen<g ref="char:EOLhyphen"/>ters</hi> for one <hi>imaginary fault</hi> of theirs, he'll chearfully ſacrifice a poor Sermon in revenge of himſelf for no leſs than <hi>Ten real faults</hi> of his own; for you muſt not be ſo uncharitable, as to think him fonder of his own Productions, than of the
+<hi>Inſpir'd Writings.</hi>
+               </p>
+               <p>I ſhall conclude with ſome of the firſt words of his Epiſtle, in which he tells the World, <hi>That he has been perſwaded by ſome private friends to Publiſh his Sermon.</hi>
+               </p>
+               <p>It does not concern us to know who theſe <hi>private friends</hi> were; perhaps, upon ſecond thoughts, he may take them for
+<hi>private foes,</hi> that would tempt him to expoſe his blind ſide to the World, by making Publick a falſe Accuſation, which had it been ſuppreſs'd within thoſe Walls, where it was deliver'd, might have paſs'd for a Secret Oracle with ſome Credulous People, and left the injured Party under the Imputation of a baſe Reflec<g ref="char:EOLhyphen"/>tion, without any poſſible Relief.</p>
+               <p>I cannot imagine that either his <hi>Ordinary,</hi> or the
+<hi>ſober part of the Clergy</hi> would ever <hi>perſwade</hi> him to Publiſh a Calumny, ſo vile in its nature, ſo inconſiſtent in its parts, ſo weakly managed, ſo maliciouſly applied, and ſo viſibly ſupported by ungrounded ſuſpici<g ref="char:EOLhyphen"/>ons, and fabulous Narratives.</p>
+               <p>But whoever they are, and whatever ends they had, in procuring a Publication of the Sermon, we reckon our ſelves obliged
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, for putting us in a capacity to vindicate our ſelves.</p>
+               <p>Though, when all is done, the thanks is principally owing to the Rector himſelf, whoſe Singular Good-Will to the <hi>Diſſenters,</hi> inclin'd him to an eaſie compliance with the agree<g ref="char:EOLhyphen"/>able Requeſt of his
+<hi>private friends.</hi>
+               </p>
+               <p>Some <hi>Jeſuits</hi> have aſſerted, That it's only a Venial Sin to calumniate falſly, to maintain their own honour, and to ruine the Credit of thoſe they take for their Enemies. They have in many caſes notoriouſly practiſect accordingly,<note n="§" place="bottom">
+                     <hi>Myſt of Jeſuitiſm.</hi> P. 361.371. &amp; p. 366.370.390.422.</note>.</p>
+               <p>Though the Rector does not profeſſedly eſpouſe this Principle, yet his <hi>blind Zeal</hi> hath notoriouſly betray'd him into the ſame Practice.</p>
+               <p>Perhaps, he'll <hi>be angry, that his foul-play</hi> (to uſe his own words) <hi>is brought upon the ſtage and thus openly,</hi> but juſtly, <hi>taxt.</hi> Epiſt.</p>
+               <p>It is no more my <hi>diſpoſition than his, to expoſe any man's mistake, whilest it keeps in Doors, and contains it ſelf within any bounds of modeſty and privacy,</hi> ibid. But when the ſacred Laws of Truth are boldly and openly violated, and the Wounds of the Church are made to bleed afreſh, by ſuch as ſhould apply healing Remedies, it's high time to un-deceive the World, to aſſert the Intereſts of Religion, and to expoſe the <hi>ſubtle Artifices</hi> of deſigning Men</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>Advertiſement.</head>
+            <p>LEST the <hi>Rector</hi> ſhould Glory over-much in his Mighty Diſcovery, it is thought convenient to Acquaint the World, That <hi>his</hi> Mr. <hi>Calvin</hi> (<hi>alias</hi> the Reverend Mr. <hi>Roger Baldwin</hi>) Detected and Expoſed the <hi>ſelf-ſame Miſtake,</hi> long before this
+<hi>Author,</hi> in an Ordination-Sermon, as ſundry then preſent, are ready to teſtifie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
